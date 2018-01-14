@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: eb8d589d3f92d4c4b8216f3d5bb97b1b
+timeCreated: 1493364804
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: baxianzhuo_J_chuandai_01
+    100002: baxianzhuo_J_chuandai_02
+    100004: baxianzhuo_J_dabian_01
+    100006: baxianzhuo_J_dabian_02
+    100008: baxianzhuo_J_huasuni_01
+    100010: baxianzhuo_J_huasuni_02
+    100012: baxianzhuo_J_huasuni_03
+    100014: baxianzhuo_J_huasuni_04
+    100016: baxianzhuo_J_mianban
+    100018: baxianzhuo_J_motou_01
+    100020: baxianzhuo_J_motou_02
+    100022: baxianzhuo_J_saizi_01
+    100024: baxianzhuo_J_saizi_02
+    100026: baxianzhuo_J_saizi_03
+    100028: baxianzhuo_J_saizi_04
+    100030: baxianzhuo_J_saizi_05
+    100032: baxianzhuo_J_saizi_06
+    100034: baxianzhuo_J_saizi_07
+    100036: baxianzhuo_J_saizi_08
+    100038: baxianzhuo_J_shuyao_01
+    100040: baxianzhuo_J_shuyao_02
+    100042: baxianzhuo_J_shuyao_03
+    100044: baxianzhuo_J_shuyao_04
+    100046: baxianzhuo_J_yaban_01
+    100048: baxianzhuo_J_yaban_02
+    100050: baxianzhuo_J_yaban_03
+    100052: baxianzhuo_J_yaban_04
+    100054: //RootNode
+    400000: baxianzhuo_J_chuandai_01
+    400002: baxianzhuo_J_chuandai_02
+    400004: baxianzhuo_J_dabian_01
+    400006: baxianzhuo_J_dabian_02
+    400008: baxianzhuo_J_huasuni_01
+    400010: baxianzhuo_J_huasuni_02
+    400012: baxianzhuo_J_huasuni_03
+    400014: baxianzhuo_J_huasuni_04
+    400016: baxianzhuo_J_mianban
+    400018: baxianzhuo_J_motou_01
+    400020: baxianzhuo_J_motou_02
+    400022: baxianzhuo_J_saizi_01
+    400024: baxianzhuo_J_saizi_02
+    400026: baxianzhuo_J_saizi_03
+    400028: baxianzhuo_J_saizi_04
+    400030: baxianzhuo_J_saizi_05
+    400032: baxianzhuo_J_saizi_06
+    400034: baxianzhuo_J_saizi_07
+    400036: baxianzhuo_J_saizi_08
+    400038: baxianzhuo_J_shuyao_01
+    400040: baxianzhuo_J_shuyao_02
+    400042: baxianzhuo_J_shuyao_03
+    400044: baxianzhuo_J_shuyao_04
+    400046: baxianzhuo_J_yaban_01
+    400048: baxianzhuo_J_yaban_02
+    400050: baxianzhuo_J_yaban_03
+    400052: baxianzhuo_J_yaban_04
+    400054: //RootNode
+    2300000: baxianzhuo_J_chuandai_01
+    2300002: baxianzhuo_J_chuandai_02
+    2300004: baxianzhuo_J_dabian_01
+    2300006: baxianzhuo_J_dabian_02
+    2300008: baxianzhuo_J_huasuni_01
+    2300010: baxianzhuo_J_huasuni_02
+    2300012: baxianzhuo_J_huasuni_03
+    2300014: baxianzhuo_J_huasuni_04
+    2300016: baxianzhuo_J_mianban
+    2300018: baxianzhuo_J_motou_01
+    2300020: baxianzhuo_J_motou_02
+    2300022: baxianzhuo_J_saizi_01
+    2300024: baxianzhuo_J_saizi_02
+    2300026: baxianzhuo_J_saizi_03
+    2300028: baxianzhuo_J_saizi_04
+    2300030: baxianzhuo_J_saizi_05
+    2300032: baxianzhuo_J_saizi_06
+    2300034: baxianzhuo_J_saizi_07
+    2300036: baxianzhuo_J_saizi_08
+    2300038: baxianzhuo_J_shuyao_01
+    2300040: baxianzhuo_J_shuyao_02
+    2300042: baxianzhuo_J_shuyao_03
+    2300044: baxianzhuo_J_shuyao_04
+    2300046: baxianzhuo_J_yaban_01
+    2300048: baxianzhuo_J_yaban_02
+    2300050: baxianzhuo_J_yaban_03
+    2300052: baxianzhuo_J_yaban_04
+    3300000: baxianzhuo_J_chuandai_01
+    3300002: baxianzhuo_J_chuandai_02
+    3300004: baxianzhuo_J_dabian_01
+    3300006: baxianzhuo_J_dabian_02
+    3300008: baxianzhuo_J_huasuni_01
+    3300010: baxianzhuo_J_huasuni_02
+    3300012: baxianzhuo_J_huasuni_03
+    3300014: baxianzhuo_J_huasuni_04
+    3300016: baxianzhuo_J_mianban
+    3300018: baxianzhuo_J_motou_01
+    3300020: baxianzhuo_J_motou_02
+    3300022: baxianzhuo_J_saizi_01
+    3300024: baxianzhuo_J_saizi_02
+    3300026: baxianzhuo_J_saizi_03
+    3300028: baxianzhuo_J_saizi_04
+    3300030: baxianzhuo_J_saizi_05
+    3300032: baxianzhuo_J_saizi_06
+    3300034: baxianzhuo_J_saizi_07
+    3300036: baxianzhuo_J_saizi_08
+    3300038: baxianzhuo_J_shuyao_01
+    3300040: baxianzhuo_J_shuyao_02
+    3300042: baxianzhuo_J_shuyao_03
+    3300044: baxianzhuo_J_shuyao_04
+    3300046: baxianzhuo_J_yaban_01
+    3300048: baxianzhuo_J_yaban_02
+    3300050: baxianzhuo_J_yaban_03
+    3300052: baxianzhuo_J_yaban_04
+    4300000: baxianzhuo_J_mianban
+    4300002: baxianzhuo_J_chuandai_01
+    4300004: baxianzhuo_J_chuandai_02
+    4300006: baxianzhuo_J_saizi_05
+    4300008: baxianzhuo_J_saizi_06
+    4300010: baxianzhuo_J_motou_02
+    4300012: baxianzhuo_J_saizi_07
+    4300014: baxianzhuo_J_huasuni_01
+    4300016: baxianzhuo_J_huasuni_04
+    4300018: baxianzhuo_J_huasuni_03
+    4300020: baxianzhuo_J_shuyao_03
+    4300022: baxianzhuo_J_yaban_02
+    4300024: baxianzhuo_J_saizi_08
+    4300026: baxianzhuo_J_saizi_03
+    4300028: baxianzhuo_J_saizi_04
+    4300030: baxianzhuo_J_yaban_01
+    4300032: baxianzhuo_J_huasuni_02
+    4300034: baxianzhuo_J_shuyao_04
+    4300036: baxianzhuo_J_dabian_02
+    4300038: baxianzhuo_J_saizi_02
+    4300040: baxianzhuo_J_saizi_01
+    4300042: baxianzhuo_J_shuyao_02
+    4300044: baxianzhuo_J_yaban_03
+    4300046: baxianzhuo_J_dabian_01
+    4300048: baxianzhuo_J_shuyao_01
+    4300050: baxianzhuo_J_motou_01
+    4300052: baxianzhuo_J_yaban_04
+    7400000: Take 001
+    7400002: 2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: PlayOver
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: baxianzhuo_J_chuandai_01
+        weight: 1
+      - path: baxianzhuo_J_chuandai_02
+        weight: 1
+      - path: baxianzhuo_J_dabian_01
+        weight: 1
+      - path: baxianzhuo_J_dabian_02
+        weight: 1
+      - path: baxianzhuo_J_huasuni_01
+        weight: 1
+      - path: baxianzhuo_J_huasuni_02
+        weight: 1
+      - path: baxianzhuo_J_huasuni_03
+        weight: 1
+      - path: baxianzhuo_J_huasuni_04
+        weight: 1
+      - path: baxianzhuo_J_mianban
+        weight: 1
+      - path: baxianzhuo_J_motou_01
+        weight: 1
+      - path: baxianzhuo_J_motou_02
+        weight: 1
+      - path: baxianzhuo_J_saizi_01
+        weight: 1
+      - path: baxianzhuo_J_saizi_02
+        weight: 1
+      - path: baxianzhuo_J_saizi_03
+        weight: 1
+      - path: baxianzhuo_J_saizi_04
+        weight: 1
+      - path: baxianzhuo_J_saizi_05
+        weight: 1
+      - path: baxianzhuo_J_saizi_06
+        weight: 1
+      - path: baxianzhuo_J_saizi_07
+        weight: 1
+      - path: baxianzhuo_J_saizi_08
+        weight: 1
+      - path: baxianzhuo_J_shuyao_01
+        weight: 1
+      - path: baxianzhuo_J_shuyao_02
+        weight: 1
+      - path: baxianzhuo_J_shuyao_03
+        weight: 1
+      - path: baxianzhuo_J_shuyao_04
+        weight: 1
+      - path: baxianzhuo_J_yaban_01
+        weight: 1
+      - path: baxianzhuo_J_yaban_02
+        weight: 1
+      - path: baxianzhuo_J_yaban_03
+        weight: 1
+      - path: baxianzhuo_J_yaban_04
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 2
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: TurnBack
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: baxianzhuo_J_chuandai_01
+        weight: 1
+      - path: baxianzhuo_J_chuandai_02
+        weight: 1
+      - path: baxianzhuo_J_dabian_01
+        weight: 1
+      - path: baxianzhuo_J_dabian_02
+        weight: 1
+      - path: baxianzhuo_J_huasuni_01
+        weight: 1
+      - path: baxianzhuo_J_huasuni_02
+        weight: 1
+      - path: baxianzhuo_J_huasuni_03
+        weight: 1
+      - path: baxianzhuo_J_huasuni_04
+        weight: 1
+      - path: baxianzhuo_J_mianban
+        weight: 1
+      - path: baxianzhuo_J_motou_01
+        weight: 1
+      - path: baxianzhuo_J_motou_02
+        weight: 1
+      - path: baxianzhuo_J_saizi_01
+        weight: 1
+      - path: baxianzhuo_J_saizi_02
+        weight: 1
+      - path: baxianzhuo_J_saizi_03
+        weight: 1
+      - path: baxianzhuo_J_saizi_04
+        weight: 1
+      - path: baxianzhuo_J_saizi_05
+        weight: 1
+      - path: baxianzhuo_J_saizi_06
+        weight: 1
+      - path: baxianzhuo_J_saizi_07
+        weight: 1
+      - path: baxianzhuo_J_saizi_08
+        weight: 1
+      - path: baxianzhuo_J_shuyao_01
+        weight: 1
+      - path: baxianzhuo_J_shuyao_02
+        weight: 1
+      - path: baxianzhuo_J_shuyao_03
+        weight: 1
+      - path: baxianzhuo_J_shuyao_04
+        weight: 1
+      - path: baxianzhuo_J_yaban_01
+        weight: 1
+      - path: baxianzhuo_J_yaban_02
+        weight: 1
+      - path: baxianzhuo_J_yaban_03
+        weight: 1
+      - path: baxianzhuo_J_yaban_04
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

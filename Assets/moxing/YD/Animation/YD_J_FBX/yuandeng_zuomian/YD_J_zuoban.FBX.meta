@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: d4a65606bed2a954688982bd72dfc71b
+timeCreated: 1492840766
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: YuanDeng_biankuang_006
+    100004: YuanDeng_biankuang_007
+    100006: YuanDeng_biankuang_008
+    100008: YuanDeng_biankuang_4
+    100010: YuanDeng_biankuang_5
+    100012: yuandeng_chuandai
+    100014: yuandeng_saizi_01
+    100016: yuandeng_saizi_02
+    100018: yuandeng_saizi_03
+    100020: yuandeng_saizi_04
+    100022: yuandeng_saizi_05
+    100024: yuandeng_zuoban
+    400000: //RootNode
+    400002: YuanDeng_biankuang_006
+    400004: YuanDeng_biankuang_007
+    400006: YuanDeng_biankuang_008
+    400008: YuanDeng_biankuang_4
+    400010: YuanDeng_biankuang_5
+    400012: yuandeng_chuandai
+    400014: yuandeng_saizi_01
+    400016: yuandeng_saizi_02
+    400018: yuandeng_saizi_03
+    400020: yuandeng_saizi_04
+    400022: yuandeng_saizi_05
+    400024: yuandeng_zuoban
+    2300000: YuanDeng_biankuang_006
+    2300002: YuanDeng_biankuang_007
+    2300004: YuanDeng_biankuang_008
+    2300006: YuanDeng_biankuang_4
+    2300008: YuanDeng_biankuang_5
+    2300010: yuandeng_chuandai
+    2300012: yuandeng_saizi_01
+    2300014: yuandeng_saizi_02
+    2300016: yuandeng_saizi_03
+    2300018: yuandeng_saizi_04
+    2300020: yuandeng_saizi_05
+    2300022: yuandeng_zuoban
+    3300000: YuanDeng_biankuang_006
+    3300002: YuanDeng_biankuang_007
+    3300004: YuanDeng_biankuang_008
+    3300006: YuanDeng_biankuang_4
+    3300008: YuanDeng_biankuang_5
+    3300010: yuandeng_chuandai
+    3300012: yuandeng_saizi_01
+    3300014: yuandeng_saizi_02
+    3300016: yuandeng_saizi_03
+    3300018: yuandeng_saizi_04
+    3300020: yuandeng_saizi_05
+    3300022: yuandeng_zuoban
+    4300000: YuanDeng_biankuang_007
+    4300002: yuandeng_zuoban
+    4300004: yuandeng_chuandai
+    4300006: yuandeng_saizi_02
+    4300008: YuanDeng_biankuang_4
+    4300010: yuandeng_saizi_05
+    4300012: yuandeng_saizi_04
+    4300014: YuanDeng_biankuang_006
+    4300016: yuandeng_saizi_03
+    4300018: yuandeng_saizi_01
+    4300020: YuanDeng_biankuang_5
+    4300022: YuanDeng_biankuang_008
+    7400000: Take 001
+    7400002: 2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: PlayOver
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: YuanDeng_biankuang_4
+        weight: 1
+      - path: YuanDeng_biankuang_5
+        weight: 1
+      - path: YuanDeng_biankuang_006
+        weight: 1
+      - path: YuanDeng_biankuang_007
+        weight: 1
+      - path: YuanDeng_biankuang_008
+        weight: 1
+      - path: yuandeng_chuandai
+        weight: 1
+      - path: yuandeng_saizi_01
+        weight: 1
+      - path: yuandeng_saizi_02
+        weight: 1
+      - path: yuandeng_saizi_03
+        weight: 1
+      - path: yuandeng_saizi_04
+        weight: 1
+      - path: yuandeng_saizi_05
+        weight: 1
+      - path: yuandeng_zuoban
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 2
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: TurnBack
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: YuanDeng_biankuang_4
+        weight: 1
+      - path: YuanDeng_biankuang_5
+        weight: 1
+      - path: YuanDeng_biankuang_006
+        weight: 1
+      - path: YuanDeng_biankuang_007
+        weight: 1
+      - path: YuanDeng_biankuang_008
+        weight: 1
+      - path: yuandeng_chuandai
+        weight: 1
+      - path: yuandeng_saizi_01
+        weight: 1
+      - path: yuandeng_saizi_02
+        weight: 1
+      - path: yuandeng_saizi_03
+        weight: 1
+      - path: yuandeng_saizi_04
+        weight: 1
+      - path: yuandeng_saizi_05
+        weight: 1
+      - path: yuandeng_zuoban
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

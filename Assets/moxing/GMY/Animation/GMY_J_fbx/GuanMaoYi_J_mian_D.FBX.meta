@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 4f140527900aec44fabc2a21091f9e13
+timeCreated: 1494183900
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: GMY_J_ceyatou_01_01
+    100002: GMY_J_ceyatou_01_02
+    100004: GMY_J_ceyatou_02_01
+    100006: GMY_J_ceyatou_02_02
+    100008: GMY_J_chuandai
+    100010: GMY_J_dabian_01
+    100012: GMY_J_dabian_02
+    100014: GMY_J_houtui_01
+    100016: GMY_J_houtui_02
+    100018: GMY_J_houyatiao
+    100020: GMY_J_houyatou_01
+    100022: GMY_J_houyatou_01_02
+    100024: GMY_J_houyatou_02
+    100026: GMY_J_houyatou_02_02
+    100028: GMY_J_humence_01
+    100030: GMY_J_humence_02
+    100032: GMY_J_humenjuankou
+    100034: GMY_J_motou_01
+    100036: GMY_J_motou_02
+    100038: GMY_J_qiantui_01
+    100040: GMY_J_qiantui_02
+    100042: GMY_J_zuoban
+    100044: //RootNode
+    400000: GMY_J_ceyatou_01_01
+    400002: GMY_J_ceyatou_01_02
+    400004: GMY_J_ceyatou_02_01
+    400006: GMY_J_ceyatou_02_02
+    400008: GMY_J_chuandai
+    400010: GMY_J_dabian_01
+    400012: GMY_J_dabian_02
+    400014: GMY_J_houtui_01
+    400016: GMY_J_houtui_02
+    400018: GMY_J_houyatiao
+    400020: GMY_J_houyatou_01
+    400022: GMY_J_houyatou_01_02
+    400024: GMY_J_houyatou_02
+    400026: GMY_J_houyatou_02_02
+    400028: GMY_J_humence_01
+    400030: GMY_J_humence_02
+    400032: GMY_J_humenjuankou
+    400034: GMY_J_motou_01
+    400036: GMY_J_motou_02
+    400038: GMY_J_qiantui_01
+    400040: GMY_J_qiantui_02
+    400042: GMY_J_zuoban
+    400044: //RootNode
+    2300000: GMY_J_ceyatou_01_01
+    2300002: GMY_J_ceyatou_01_02
+    2300004: GMY_J_ceyatou_02_01
+    2300006: GMY_J_ceyatou_02_02
+    2300008: GMY_J_chuandai
+    2300010: GMY_J_dabian_01
+    2300012: GMY_J_dabian_02
+    2300014: GMY_J_houtui_01
+    2300016: GMY_J_houtui_02
+    2300018: GMY_J_houyatiao
+    2300020: GMY_J_houyatou_01
+    2300022: GMY_J_houyatou_01_02
+    2300024: GMY_J_houyatou_02
+    2300026: GMY_J_houyatou_02_02
+    2300028: GMY_J_humence_01
+    2300030: GMY_J_humence_02
+    2300032: GMY_J_humenjuankou
+    2300034: GMY_J_motou_01
+    2300036: GMY_J_motou_02
+    2300038: GMY_J_qiantui_01
+    2300040: GMY_J_qiantui_02
+    2300042: GMY_J_zuoban
+    3300000: GMY_J_ceyatou_01_01
+    3300002: GMY_J_ceyatou_01_02
+    3300004: GMY_J_ceyatou_02_01
+    3300006: GMY_J_ceyatou_02_02
+    3300008: GMY_J_chuandai
+    3300010: GMY_J_dabian_01
+    3300012: GMY_J_dabian_02
+    3300014: GMY_J_houtui_01
+    3300016: GMY_J_houtui_02
+    3300018: GMY_J_houyatiao
+    3300020: GMY_J_houyatou_01
+    3300022: GMY_J_houyatou_01_02
+    3300024: GMY_J_houyatou_02
+    3300026: GMY_J_houyatou_02_02
+    3300028: GMY_J_humence_01
+    3300030: GMY_J_humence_02
+    3300032: GMY_J_humenjuankou
+    3300034: GMY_J_motou_01
+    3300036: GMY_J_motou_02
+    3300038: GMY_J_qiantui_01
+    3300040: GMY_J_qiantui_02
+    3300042: GMY_J_zuoban
+    4300000: GMY_J_houyatou_02
+    4300002: GMY_J_houyatou_01
+    4300004: GMY_J_houyatiao
+    4300006: GMY_J_ceyatou_02_01
+    4300008: GMY_J_houyatou_02_02
+    4300010: GMY_J_ceyatou_02_02
+    4300012: GMY_J_motou_01
+    4300014: GMY_J_dabian_01
+    4300016: GMY_J_dabian_02
+    4300018: GMY_J_humenjuankou
+    4300020: GMY_J_motou_02
+    4300022: GMY_J_ceyatou_01_01
+    4300024: GMY_J_houyatou_01_02
+    4300026: GMY_J_ceyatou_01_02
+    4300028: GMY_J_zuoban
+    4300030: GMY_J_chuandai
+    4300032: GMY_J_qiantui_02
+    4300034: GMY_J_qiantui_01
+    4300036: GMY_J_humence_02
+    4300038: GMY_J_humence_01
+    4300040: GMY_J_houtui_02
+    4300042: GMY_J_houtui_01
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 5948dbb75608b14428f866263fd284fc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: BackOver
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 5948dbb75608b14428f866263fd284fc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GMY_J_ceyatou_01_01
+        weight: 1
+      - path: GMY_J_ceyatou_01_02
+        weight: 1
+      - path: GMY_J_ceyatou_02_01
+        weight: 1
+      - path: GMY_J_ceyatou_02_02
+        weight: 1
+      - path: GMY_J_chuandai
+        weight: 1
+      - path: GMY_J_dabian_01
+        weight: 1
+      - path: GMY_J_dabian_02
+        weight: 1
+      - path: GMY_J_houtui_01
+        weight: 1
+      - path: GMY_J_houtui_02
+        weight: 1
+      - path: GMY_J_houyatiao
+        weight: 1
+      - path: GMY_J_houyatou_01
+        weight: 1
+      - path: GMY_J_houyatou_01_02
+        weight: 1
+      - path: GMY_J_houyatou_02
+        weight: 1
+      - path: GMY_J_houyatou_02_02
+        weight: 1
+      - path: GMY_J_humence_01
+        weight: 1
+      - path: GMY_J_humence_02
+        weight: 1
+      - path: GMY_J_humenjuankou
+        weight: 1
+      - path: GMY_J_motou_01
+        weight: 1
+      - path: GMY_J_motou_02
+        weight: 1
+      - path: GMY_J_qiantui_01
+        weight: 1
+      - path: GMY_J_qiantui_02
+        weight: 1
+      - path: GMY_J_zuoban
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

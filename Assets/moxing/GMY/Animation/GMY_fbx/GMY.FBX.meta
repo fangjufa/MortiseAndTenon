@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: d41b85b12007a6242927f58b623d8ac4
+timeCreated: 1493431075
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: GMY_cehengzhang_01
+    100004: GMY_cehengzhang_02
+    100006: GMY_cehengzhang_03
+    100008: GMY_cehengzhang_04
+    100010: GMY_ceyatou_01_01
+    100012: GMY_ceyatou_01_02
+    100014: GMY_ceyatou_02_01
+    100016: GMY_ceyatou_02_02
+    100018: GMY_chuandai
+    100020: GMY_dabian_01
+    100022: GMY_dabian_02
+    100024: GMY_danao
+    100026: GMY_ebo_01
+    100028: GMY_ebo_02
+    100030: GMY_fushou_01
+    100032: GMY_fushou_02
+    100034: GMY_houhengzhang
+    100036: GMY_houtui_01
+    100038: GMY_houtui_02
+    100040: GMY_houyatiao
+    100042: GMY_houyatou_01
+    100044: GMY_houyatou_01_02
+    100046: GMY_houyatou_02
+    100048: GMY_houyatou_02_02
+    100050: GMY_humence_01
+    100052: GMY_humence_02
+    100054: GMY_humenjuankou
+    100056: GMY_jiaota
+    100058: GMY_kaobeiban
+    100060: GMY_motou_01
+    100062: GMY_motou_02
+    100064: GMY_qiantui_01
+    100066: GMY_qiantui_02
+    100068: GMY_xiayatiao
+    100070: GMY_zhuangshi_01
+    100072: GMY_zhuangshi_02
+    100074: GMY_zuoban
+    400000: //RootNode
+    400002: GMY_cehengzhang_01
+    400004: GMY_cehengzhang_02
+    400006: GMY_cehengzhang_03
+    400008: GMY_cehengzhang_04
+    400010: GMY_ceyatou_01_01
+    400012: GMY_ceyatou_01_02
+    400014: GMY_ceyatou_02_01
+    400016: GMY_ceyatou_02_02
+    400018: GMY_chuandai
+    400020: GMY_dabian_01
+    400022: GMY_dabian_02
+    400024: GMY_danao
+    400026: GMY_ebo_01
+    400028: GMY_ebo_02
+    400030: GMY_fushou_01
+    400032: GMY_fushou_02
+    400034: GMY_houhengzhang
+    400036: GMY_houtui_01
+    400038: GMY_houtui_02
+    400040: GMY_houyatiao
+    400042: GMY_houyatou_01
+    400044: GMY_houyatou_01_02
+    400046: GMY_houyatou_02
+    400048: GMY_houyatou_02_02
+    400050: GMY_humence_01
+    400052: GMY_humence_02
+    400054: GMY_humenjuankou
+    400056: GMY_jiaota
+    400058: GMY_kaobeiban
+    400060: GMY_motou_01
+    400062: GMY_motou_02
+    400064: GMY_qiantui_01
+    400066: GMY_qiantui_02
+    400068: GMY_xiayatiao
+    400070: GMY_zhuangshi_01
+    400072: GMY_zhuangshi_02
+    400074: GMY_zuoban
+    2300000: GMY_cehengzhang_01
+    2300002: GMY_cehengzhang_02
+    2300004: GMY_cehengzhang_03
+    2300006: GMY_cehengzhang_04
+    2300008: GMY_ceyatou_01_01
+    2300010: GMY_ceyatou_01_02
+    2300012: GMY_ceyatou_02_01
+    2300014: GMY_ceyatou_02_02
+    2300016: GMY_chuandai
+    2300018: GMY_dabian_01
+    2300020: GMY_dabian_02
+    2300022: GMY_danao
+    2300024: GMY_ebo_01
+    2300026: GMY_ebo_02
+    2300028: GMY_fushou_01
+    2300030: GMY_fushou_02
+    2300032: GMY_houhengzhang
+    2300034: GMY_houtui_01
+    2300036: GMY_houtui_02
+    2300038: GMY_houyatiao
+    2300040: GMY_houyatou_01
+    2300042: GMY_houyatou_01_02
+    2300044: GMY_houyatou_02
+    2300046: GMY_houyatou_02_02
+    2300048: GMY_humence_01
+    2300050: GMY_humence_02
+    2300052: GMY_humenjuankou
+    2300054: GMY_jiaota
+    2300056: GMY_kaobeiban
+    2300058: GMY_motou_01
+    2300060: GMY_motou_02
+    2300062: GMY_qiantui_01
+    2300064: GMY_qiantui_02
+    2300066: GMY_xiayatiao
+    2300068: GMY_zhuangshi_01
+    2300070: GMY_zhuangshi_02
+    2300072: GMY_zuoban
+    3300000: GMY_cehengzhang_01
+    3300002: GMY_cehengzhang_02
+    3300004: GMY_cehengzhang_03
+    3300006: GMY_cehengzhang_04
+    3300008: GMY_ceyatou_01_01
+    3300010: GMY_ceyatou_01_02
+    3300012: GMY_ceyatou_02_01
+    3300014: GMY_ceyatou_02_02
+    3300016: GMY_chuandai
+    3300018: GMY_dabian_01
+    3300020: GMY_dabian_02
+    3300022: GMY_danao
+    3300024: GMY_ebo_01
+    3300026: GMY_ebo_02
+    3300028: GMY_fushou_01
+    3300030: GMY_fushou_02
+    3300032: GMY_houhengzhang
+    3300034: GMY_houtui_01
+    3300036: GMY_houtui_02
+    3300038: GMY_houyatiao
+    3300040: GMY_houyatou_01
+    3300042: GMY_houyatou_01_02
+    3300044: GMY_houyatou_02
+    3300046: GMY_houyatou_02_02
+    3300048: GMY_humence_01
+    3300050: GMY_humence_02
+    3300052: GMY_humenjuankou
+    3300054: GMY_jiaota
+    3300056: GMY_kaobeiban
+    3300058: GMY_motou_01
+    3300060: GMY_motou_02
+    3300062: GMY_qiantui_01
+    3300064: GMY_qiantui_02
+    3300066: GMY_xiayatiao
+    3300068: GMY_zhuangshi_01
+    3300070: GMY_zhuangshi_02
+    3300072: GMY_zuoban
+    4300000: GMY_fushou_02
+    4300002: GMY_zhuangshi_01
+    4300004: GMY_cehengzhang_01
+    4300006: GMY_cehengzhang_03
+    4300008: GMY_cehengzhang_04
+    4300010: GMY_houyatou_02
+    4300012: GMY_houyatou_01
+    4300014: GMY_houyatiao
+    4300016: GMY_ceyatou_02_01
+    4300018: GMY_houyatou_02_02
+    4300020: GMY_ceyatou_02_02
+    4300022: GMY_danao
+    4300024: GMY_motou_01
+    4300026: GMY_dabian_01
+    4300028: GMY_houhengzhang
+    4300030: GMY_cehengzhang_02
+    4300032: GMY_zhuangshi_02
+    4300034: GMY_ebo_01
+    4300036: GMY_ebo_02
+    4300038: GMY_xiayatiao
+    4300040: GMY_jiaota
+    4300042: GMY_kaobeiban
+    4300044: GMY_humence_01
+    4300046: GMY_humenjuankou
+    4300048: GMY_humence_02
+    4300050: GMY_ceyatou_01_01
+    4300052: GMY_houyatou_01_02
+    4300054: GMY_ceyatou_01_02
+    4300056: GMY_qiantui_01
+    4300058: GMY_qiantui_02
+    4300060: GMY_houtui_01
+    4300062: GMY_chuandai
+    4300064: GMY_zuoban
+    4300066: GMY_motou_02
+    4300068: GMY_dabian_02
+    4300070: GMY_houtui_02
+    4300072: GMY_fushou_01
+    7400000: Take 001
+    7400002: 2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: PlayOver
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 3cad69a6f63747449aa41d5ec54b2ccc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 3cad69a6f63747449aa41d5ec54b2ccc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GMY_cehengzhang_01
+        weight: 1
+      - path: GMY_cehengzhang_02
+        weight: 1
+      - path: GMY_cehengzhang_03
+        weight: 1
+      - path: GMY_cehengzhang_04
+        weight: 1
+      - path: GMY_ceyatou_01_01
+        weight: 1
+      - path: GMY_ceyatou_01_02
+        weight: 1
+      - path: GMY_ceyatou_02_01
+        weight: 1
+      - path: GMY_ceyatou_02_02
+        weight: 1
+      - path: GMY_chuandai
+        weight: 1
+      - path: GMY_dabian_01
+        weight: 1
+      - path: GMY_dabian_02
+        weight: 1
+      - path: GMY_danao
+        weight: 1
+      - path: GMY_ebo_01
+        weight: 1
+      - path: GMY_ebo_02
+        weight: 1
+      - path: GMY_fushou_01
+        weight: 1
+      - path: GMY_fushou_02
+        weight: 1
+      - path: GMY_houhengzhang
+        weight: 1
+      - path: GMY_houtui_01
+        weight: 1
+      - path: GMY_houtui_02
+        weight: 1
+      - path: GMY_houyatiao
+        weight: 1
+      - path: GMY_houyatou_01
+        weight: 1
+      - path: GMY_houyatou_01_02
+        weight: 1
+      - path: GMY_houyatou_02
+        weight: 1
+      - path: GMY_houyatou_02_02
+        weight: 1
+      - path: GMY_humence_01
+        weight: 1
+      - path: GMY_humence_02
+        weight: 1
+      - path: GMY_humenjuankou
+        weight: 1
+      - path: GMY_jiaota
+        weight: 1
+      - path: GMY_kaobeiban
+        weight: 1
+      - path: GMY_motou_01
+        weight: 1
+      - path: GMY_motou_02
+        weight: 1
+      - path: GMY_qiantui_01
+        weight: 1
+      - path: GMY_qiantui_02
+        weight: 1
+      - path: GMY_xiayatiao
+        weight: 1
+      - path: GMY_zhuangshi_01
+        weight: 1
+      - path: GMY_zhuangshi_02
+        weight: 1
+      - path: GMY_zuoban
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 2
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 3cad69a6f63747449aa41d5ec54b2ccc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayOver
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 3cad69a6f63747449aa41d5ec54b2ccc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GMY_cehengzhang_01
+        weight: 1
+      - path: GMY_cehengzhang_02
+        weight: 1
+      - path: GMY_cehengzhang_03
+        weight: 1
+      - path: GMY_cehengzhang_04
+        weight: 1
+      - path: GMY_ceyatou_01_01
+        weight: 1
+      - path: GMY_ceyatou_01_02
+        weight: 1
+      - path: GMY_ceyatou_02_01
+        weight: 1
+      - path: GMY_ceyatou_02_02
+        weight: 1
+      - path: GMY_chuandai
+        weight: 1
+      - path: GMY_dabian_01
+        weight: 1
+      - path: GMY_dabian_02
+        weight: 1
+      - path: GMY_danao
+        weight: 1
+      - path: GMY_ebo_01
+        weight: 1
+      - path: GMY_ebo_02
+        weight: 1
+      - path: GMY_fushou_01
+        weight: 1
+      - path: GMY_fushou_02
+        weight: 1
+      - path: GMY_houhengzhang
+        weight: 1
+      - path: GMY_houtui_01
+        weight: 1
+      - path: GMY_houtui_02
+        weight: 1
+      - path: GMY_houyatiao
+        weight: 1
+      - path: GMY_houyatou_01
+        weight: 1
+      - path: GMY_houyatou_01_02
+        weight: 1
+      - path: GMY_houyatou_02
+        weight: 1
+      - path: GMY_houyatou_02_02
+        weight: 1
+      - path: GMY_humence_01
+        weight: 1
+      - path: GMY_humence_02
+        weight: 1
+      - path: GMY_humenjuankou
+        weight: 1
+      - path: GMY_jiaota
+        weight: 1
+      - path: GMY_kaobeiban
+        weight: 1
+      - path: GMY_motou_01
+        weight: 1
+      - path: GMY_motou_02
+        weight: 1
+      - path: GMY_qiantui_01
+        weight: 1
+      - path: GMY_qiantui_02
+        weight: 1
+      - path: GMY_xiayatiao
+        weight: 1
+      - path: GMY_zhuangshi_01
+        weight: 1
+      - path: GMY_zhuangshi_02
+        weight: 1
+      - path: GMY_zuoban
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

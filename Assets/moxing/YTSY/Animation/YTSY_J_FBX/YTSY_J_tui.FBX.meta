@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: f2b1c4dcddef6f24982eec15987b95fc
+timeCreated: 1494193250
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ytsy_J_ cehengzhangi_004
+    100002: ytsy_J_dabian_2
+    100004: ytsy_J_henggan_017
+    100006: ytsy_J_henggan_018
+    100008: ytsy_J_henggan_019
+    100010: ytsy_J_hengzhangi_2
+    100012: ytsy_J_motou_2
+    100014: ytsy_J_saizi_01
+    100016: ytsy_J_saizi_02
+    100018: ytsy_J_shugan_017
+    100020: ytsy_J_shugan_018
+    100022: ytsy_J_shugan_019
+    100024: //RootNode
+    100026: ytsy_J_tuii_4
+    400000: ytsy_J_ cehengzhangi_004
+    400002: ytsy_J_dabian_2
+    400004: ytsy_J_henggan_017
+    400006: ytsy_J_henggan_018
+    400008: ytsy_J_henggan_019
+    400010: ytsy_J_hengzhangi_2
+    400012: ytsy_J_motou_2
+    400014: ytsy_J_saizi_01
+    400016: ytsy_J_saizi_02
+    400018: ytsy_J_shugan_017
+    400020: ytsy_J_shugan_018
+    400022: ytsy_J_shugan_019
+    400024: //RootNode
+    400026: ytsy_J_tuii_4
+    2300000: ytsy_J_ cehengzhangi_004
+    2300002: ytsy_J_dabian_2
+    2300004: ytsy_J_henggan_017
+    2300006: ytsy_J_henggan_018
+    2300008: ytsy_J_henggan_019
+    2300010: ytsy_J_hengzhangi_2
+    2300012: ytsy_J_motou_2
+    2300014: ytsy_J_saizi_01
+    2300016: ytsy_J_saizi_02
+    2300018: ytsy_J_shugan_017
+    2300020: ytsy_J_shugan_018
+    2300022: ytsy_J_shugan_019
+    2300024: ytsy_J_tuii_4
+    3300000: ytsy_J_ cehengzhangi_004
+    3300002: ytsy_J_dabian_2
+    3300004: ytsy_J_henggan_017
+    3300006: ytsy_J_henggan_018
+    3300008: ytsy_J_henggan_019
+    3300010: ytsy_J_hengzhangi_2
+    3300012: ytsy_J_motou_2
+    3300014: ytsy_J_saizi_01
+    3300016: ytsy_J_saizi_02
+    3300018: ytsy_J_shugan_017
+    3300020: ytsy_J_shugan_018
+    3300022: ytsy_J_shugan_019
+    3300024: ytsy_J_tuii_4
+    4300000: ytsy_J_shugan_017
+    4300002: ytsy_J_shugan_019
+    4300004: ytsy_J_henggan_019
+    4300006: ytsy_J_saizi_02
+    4300008: ytsy_J_ cehengzhangi_004
+    4300010: ytsy_J_henggan_017
+    4300012: ytsy_J_dabian_2
+    4300014: ytsy_J_hengzhangi_2
+    4300016: ytsy_J_saizi_01
+    4300018: ytsy_J_henggan_018
+    4300020: ytsy_J_motou_2
+    4300022: ytsy_J_tuii_4
+    4300024: ytsy_J_shugan_018
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: PlayOver
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ytsy_J_ cehengzhangi_004
+        weight: 1
+      - path: ytsy_J_dabian_2
+        weight: 1
+      - path: ytsy_J_henggan_017
+        weight: 1
+      - path: ytsy_J_henggan_018
+        weight: 1
+      - path: ytsy_J_henggan_019
+        weight: 1
+      - path: ytsy_J_hengzhangi_2
+        weight: 1
+      - path: ytsy_J_motou_2
+        weight: 1
+      - path: ytsy_J_saizi_01
+        weight: 1
+      - path: ytsy_J_saizi_02
+        weight: 1
+      - path: ytsy_J_shugan_017
+        weight: 1
+      - path: ytsy_J_shugan_018
+        weight: 1
+      - path: ytsy_J_shugan_019
+        weight: 1
+      - path: ytsy_J_tuii_4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

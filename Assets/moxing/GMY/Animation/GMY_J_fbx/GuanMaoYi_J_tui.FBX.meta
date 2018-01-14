@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 35ce705386b7b0e41a18a260b25cec65
+timeCreated: 1493317565
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: GMY_J_cehengzhang_01
+    100002: GMY_J_cehengzhang_03
+    100004: GMY_J_ceyatou_01_01
+    100006: GMY_J_ceyatou_01_02
+    100008: GMY_J_ebo_01
+    100010: GMY_J_fushou_01
+    100012: GMY_J_houtui_01
+    100014: GMY_J_houyatou_01_02
+    100016: GMY_J_motou_01
+    100018: GMY_J_qiantui_01
+    100020: GMY_J_zhuangshi_01
+    100022: //RootNode
+    400000: GMY_J_cehengzhang_01
+    400002: GMY_J_cehengzhang_03
+    400004: GMY_J_ceyatou_01_01
+    400006: GMY_J_ceyatou_01_02
+    400008: GMY_J_ebo_01
+    400010: GMY_J_fushou_01
+    400012: GMY_J_houtui_01
+    400014: GMY_J_houyatou_01_02
+    400016: GMY_J_motou_01
+    400018: GMY_J_qiantui_01
+    400020: GMY_J_zhuangshi_01
+    400022: //RootNode
+    2300000: GMY_J_cehengzhang_01
+    2300002: GMY_J_cehengzhang_03
+    2300004: GMY_J_ceyatou_01_01
+    2300006: GMY_J_ceyatou_01_02
+    2300008: GMY_J_ebo_01
+    2300010: GMY_J_fushou_01
+    2300012: GMY_J_houtui_01
+    2300014: GMY_J_houyatou_01_02
+    2300016: GMY_J_motou_01
+    2300018: GMY_J_qiantui_01
+    2300020: GMY_J_zhuangshi_01
+    3300000: GMY_J_cehengzhang_01
+    3300002: GMY_J_cehengzhang_03
+    3300004: GMY_J_ceyatou_01_01
+    3300006: GMY_J_ceyatou_01_02
+    3300008: GMY_J_ebo_01
+    3300010: GMY_J_fushou_01
+    3300012: GMY_J_houtui_01
+    3300014: GMY_J_houyatou_01_02
+    3300016: GMY_J_motou_01
+    3300018: GMY_J_qiantui_01
+    3300020: GMY_J_zhuangshi_01
+    4300000: GMY_J_zhuangshi_01
+    4300002: GMY_J_cehengzhang_01
+    4300004: GMY_J_cehengzhang_03
+    4300006: GMY_J_motou_01
+    4300008: GMY_J_ebo_01
+    4300010: GMY_J_ceyatou_01_01
+    4300012: GMY_J_houyatou_01_02
+    4300014: GMY_J_ceyatou_01_02
+    4300016: GMY_J_qiantui_01
+    4300018: GMY_J_houtui_01
+    4300020: GMY_J_fushou_01
+    7400000: Take 001
+    7400002: 2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: PlayOver
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GMY_J_cehengzhang_01
+        weight: 1
+      - path: GMY_J_cehengzhang_03
+        weight: 1
+      - path: GMY_J_ceyatou_01_01
+        weight: 1
+      - path: GMY_J_ceyatou_01_02
+        weight: 1
+      - path: GMY_J_ebo_01
+        weight: 1
+      - path: GMY_J_fushou_01
+        weight: 1
+      - path: GMY_J_houtui_01
+        weight: 1
+      - path: GMY_J_houyatou_01_02
+        weight: 1
+      - path: GMY_J_motou_01
+        weight: 1
+      - path: GMY_J_qiantui_01
+        weight: 1
+      - path: GMY_J_zhuangshi_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 2
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: TurnBack
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GMY_J_cehengzhang_01
+        weight: 1
+      - path: GMY_J_cehengzhang_03
+        weight: 1
+      - path: GMY_J_ceyatou_01_01
+        weight: 1
+      - path: GMY_J_ceyatou_01_02
+        weight: 1
+      - path: GMY_J_ebo_01
+        weight: 1
+      - path: GMY_J_fushou_01
+        weight: 1
+      - path: GMY_J_houtui_01
+        weight: 1
+      - path: GMY_J_houyatou_01_02
+        weight: 1
+      - path: GMY_J_motou_01
+        weight: 1
+      - path: GMY_J_qiantui_01
+        weight: 1
+      - path: GMY_J_zhuangshi_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

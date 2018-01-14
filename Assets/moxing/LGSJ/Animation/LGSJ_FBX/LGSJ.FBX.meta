@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: d21e001fea6121f40a53f6730fb3f5fd
+timeCreated: 1493705058
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SJ_ceban_01
+    100004: SJ_ceban_02
+    100006: SJ_cehengzhang_1_005
+    100008: SJ_cehengzhang_1_006
+    100010: SJ_cehengzhang_1_007
+    100012: SJ_cehengzhang_1_008
+    100014: SJ_cehengzhang_2_01
+    100016: SJ_cehengzhang_2_02
+    100018: SJ_cehengzhang_2_03
+    100020: SJ_cehengzhang_2_04
+    100022: SJ_cehengzhang_3_01
+    100024: SJ_cehengzhang_3_02
+    100026: SJ_cehengzhang_3_03
+    100028: SJ_cehengzhang_3_04
+    100030: SJ_cehengzhang_4_01
+    100032: SJ_cehengzhang_4_02
+    100034: SJ_cehengzhang_4_03
+    100036: SJ_cehengzhang_4_04
+    100038: SJ_cengban_00
+    100040: SJ_cengban_01
+    100042: SJ_cengban_02
+    100044: SJ_cengban_02_1
+    100046: SJ_cengban_03
+    100048: SJ_cengban_04
+    100050: SJ_chaxiao_01
+    100052: SJ_chaxiao_02
+    100054: SJ_chaxiao_03
+    100056: SJ_chaxiao_04
+    100058: SJ_chaxiao_05
+    100060: SJ_chaxiao_06
+    100062: SJ_chaxiao_07
+    100064: SJ_chaxiao_08
+    100066: SJ_chouce_01
+    100068: SJ_chouce_02
+    100070: SJ_chouce_03
+    100072: SJ_chouce_04
+    100074: SJ_choudiban_01
+    100076: SJ_choudiban_02
+    100078: SJ_chouhou_01
+    100080: SJ_chouhou_01 1
+    100082: SJ_choumian_01
+    100084: SJ_choumian_02
+    100086: SJ_dgcd_01
+    100088: SJ_dgcd_02
+    100090: SJ_dgcd_03
+    100092: SJ_dgcd_04
+    100094: SJ_dgcd_05
+    100096: SJ_dgcd_06
+    100098: SJ_dgcd_07
+    100100: SJ_dgcd_08
+    100102: SJ_dgcd_09
+    100104: SJ_dgcd_10
+    100106: SJ_dgcd_11
+    100108: SJ_dgcd_12
+    100110: SJ_dgcd_13
+    100112: SJ_dgcd_14
+    100114: SJ_dgdb_01
+    100116: SJ_dgdb_02
+    100118: SJ_dgdb_1_003
+    100120: SJ_dgdb_1_004
+    100122: SJ_dgdb_2_01
+    100124: SJ_dgdb_2_02
+    100126: SJ_dgdb_2_03
+    100128: SJ_dgdb_2_04
+    100130: SJ_dgdb_3_01
+    100132: SJ_dgdb_3_02
+    100134: SJ_dgdb_4_01
+    100136: SJ_dgdb_4_02
+    100138: SJ_dgmt_01
+    100140: SJ_dgmt_01 1
+    100142: SJ_didabian_01
+    100144: SJ_didabian_02
+    100146: SJ_dimotou_01
+    100148: SJ_dimotou_02
+    100150: SJ_dinggai
+    100152: SJ_hengzhang_1_003
+    100154: SJ_hengzhang_1_004
+    100156: SJ_hengzhang_2_01
+    100158: SJ_hengzhang_2_02
+    100160: SJ_hengzhang_3_01
+    100162: SJ_hengzhang_3_02
+    100164: SJ_hengzhang_4_01
+    100166: SJ_hengzhang_4_02
+    100168: SJ_houban_01
+    100170: SJ_houban_02
+    100172: SJ_hua_1_006
+    100174: SJ_hua_1_007
+    100176: SJ_hua_1_008
+    100178: SJ_hua_1_009
+    100180: SJ_hua_1_010
+    100182: SJ_hua_1_011
+    100184: SJ_hua_2_01
+    100186: SJ_hua_2_02
+    100188: SJ_hua_2_02 1
+    100190: SJ_hua_2_03
+    100192: SJ_hua_2_04
+    100194: SJ_hua_2_05
+    100196: SJ_hua_3_01
+    100198: SJ_hua_3_02
+    100200: SJ_hua_3_02 1
+    100202: SJ_hua_3_03
+    100204: SJ_hua_3_04
+    100206: SJ_hua_3_05
+    100208: SJ_hua_4_01
+    100210: SJ_hua_4_02
+    100212: SJ_hua_4_03
+    100214: SJ_hua_4_04
+    100216: SJ_hua_4_05
+    100218: SJ_motou_1_01
+    100220: SJ_motou_1_02
+    100222: SJ_motou_2_01
+    100224: SJ_motou_2_02
+    100226: SJ_motou_2_03
+    100228: SJ_motou_2_04
+    100230: SJ_motou_3_01
+    100232: SJ_motou_3_02
+    100234: SJ_motou_4_01
+    100236: SJ_motou_4_02
+    100238: SJ_shugan_1_009
+    100240: SJ_shugan_1_010
+    100242: SJ_shugan_1_011
+    100244: SJ_shugan_1_012
+    100246: SJ_shugan_1_013
+    100248: SJ_shugan_1_014
+    100250: SJ_shugan_1_015
+    100252: SJ_shugan_2_01
+    100254: SJ_shugan_2_02
+    100256: SJ_shugan_2_04
+    100258: SJ_shugan_2_05
+    100260: SJ_shugan_2_06
+    100262: SJ_shugan_2_07
+    100264: SJ_shugan_2_08
+    100266: SJ_shugan_3_01
+    100268: SJ_shugan_3_02
+    100270: SJ_shugan_3_04
+    100272: SJ_shugan_3_05
+    100274: SJ_shugan_3_06
+    100276: SJ_shugan_3_07
+    100278: SJ_shugan_3_08
+    100280: SJ_shugan_4_01
+    100282: SJ_shugan_4_02
+    100284: SJ_shugan_4_03
+    100286: SJ_shugan_4_05
+    100288: SJ_shugan_4_06
+    100290: SJ_shugan_4_07
+    100292: SJ_shugan_4_08
+    100294: SJ_shugan_4_09
+    100296: SJ_tui_01
+    100298: SJ_tui_02
+    100300: SJ_tui_03
+    100302: SJ_tui_04
+    100304: SJ_yatiao_01
+    100306: SJ_yatiao_02
+    100308: SJ_yatiao_03
+    100310: SJ_yatiao_04
+    100312: SJ_yatou_01
+    100314: SJ_yatou_01 1
+    100316: SJ_yatou_03
+    100318: SJ_yatou_04
+    100320: SJ_yatou_05
+    100322: SJ_yatou_06
+    100324: SJ_yatou_07
+    100326: SJ_yatou_08
+    100328: SJ_zhongchougui_01
+    100330: SJ_zhongchougui_02
+    100332: SJ_zhongchougui_03
+    100334: SJ_zhongshugn
+    400000: //RootNode
+    400002: SJ_ceban_01
+    400004: SJ_ceban_02
+    400006: SJ_cehengzhang_1_005
+    400008: SJ_cehengzhang_1_006
+    400010: SJ_cehengzhang_1_007
+    400012: SJ_cehengzhang_1_008
+    400014: SJ_cehengzhang_2_01
+    400016: SJ_cehengzhang_2_02
+    400018: SJ_cehengzhang_2_03
+    400020: SJ_cehengzhang_2_04
+    400022: SJ_cehengzhang_3_01
+    400024: SJ_cehengzhang_3_02
+    400026: SJ_cehengzhang_3_03
+    400028: SJ_cehengzhang_3_04
+    400030: SJ_cehengzhang_4_01
+    400032: SJ_cehengzhang_4_02
+    400034: SJ_cehengzhang_4_03
+    400036: SJ_cehengzhang_4_04
+    400038: SJ_cengban_00
+    400040: SJ_cengban_01
+    400042: SJ_cengban_02
+    400044: SJ_cengban_02_1
+    400046: SJ_cengban_03
+    400048: SJ_cengban_04
+    400050: SJ_chaxiao_01
+    400052: SJ_chaxiao_02
+    400054: SJ_chaxiao_03
+    400056: SJ_chaxiao_04
+    400058: SJ_chaxiao_05
+    400060: SJ_chaxiao_06
+    400062: SJ_chaxiao_07
+    400064: SJ_chaxiao_08
+    400066: SJ_chouce_01
+    400068: SJ_chouce_02
+    400070: SJ_chouce_03
+    400072: SJ_chouce_04
+    400074: SJ_choudiban_01
+    400076: SJ_choudiban_02
+    400078: SJ_chouhou_01
+    400080: SJ_chouhou_01 1
+    400082: SJ_choumian_01
+    400084: SJ_choumian_02
+    400086: SJ_dgcd_01
+    400088: SJ_dgcd_02
+    400090: SJ_dgcd_03
+    400092: SJ_dgcd_04
+    400094: SJ_dgcd_05
+    400096: SJ_dgcd_06
+    400098: SJ_dgcd_07
+    400100: SJ_dgcd_08
+    400102: SJ_dgcd_09
+    400104: SJ_dgcd_10
+    400106: SJ_dgcd_11
+    400108: SJ_dgcd_12
+    400110: SJ_dgcd_13
+    400112: SJ_dgcd_14
+    400114: SJ_dgdb_01
+    400116: SJ_dgdb_02
+    400118: SJ_dgdb_1_003
+    400120: SJ_dgdb_1_004
+    400122: SJ_dgdb_2_01
+    400124: SJ_dgdb_2_02
+    400126: SJ_dgdb_2_03
+    400128: SJ_dgdb_2_04
+    400130: SJ_dgdb_3_01
+    400132: SJ_dgdb_3_02
+    400134: SJ_dgdb_4_01
+    400136: SJ_dgdb_4_02
+    400138: SJ_dgmt_01
+    400140: SJ_dgmt_01 1
+    400142: SJ_didabian_01
+    400144: SJ_didabian_02
+    400146: SJ_dimotou_01
+    400148: SJ_dimotou_02
+    400150: SJ_dinggai
+    400152: SJ_hengzhang_1_003
+    400154: SJ_hengzhang_1_004
+    400156: SJ_hengzhang_2_01
+    400158: SJ_hengzhang_2_02
+    400160: SJ_hengzhang_3_01
+    400162: SJ_hengzhang_3_02
+    400164: SJ_hengzhang_4_01
+    400166: SJ_hengzhang_4_02
+    400168: SJ_houban_01
+    400170: SJ_houban_02
+    400172: SJ_hua_1_006
+    400174: SJ_hua_1_007
+    400176: SJ_hua_1_008
+    400178: SJ_hua_1_009
+    400180: SJ_hua_1_010
+    400182: SJ_hua_1_011
+    400184: SJ_hua_2_01
+    400186: SJ_hua_2_02
+    400188: SJ_hua_2_02 1
+    400190: SJ_hua_2_03
+    400192: SJ_hua_2_04
+    400194: SJ_hua_2_05
+    400196: SJ_hua_3_01
+    400198: SJ_hua_3_02
+    400200: SJ_hua_3_02 1
+    400202: SJ_hua_3_03
+    400204: SJ_hua_3_04
+    400206: SJ_hua_3_05
+    400208: SJ_hua_4_01
+    400210: SJ_hua_4_02
+    400212: SJ_hua_4_03
+    400214: SJ_hua_4_04
+    400216: SJ_hua_4_05
+    400218: SJ_motou_1_01
+    400220: SJ_motou_1_02
+    400222: SJ_motou_2_01
+    400224: SJ_motou_2_02
+    400226: SJ_motou_2_03
+    400228: SJ_motou_2_04
+    400230: SJ_motou_3_01
+    400232: SJ_motou_3_02
+    400234: SJ_motou_4_01
+    400236: SJ_motou_4_02
+    400238: SJ_shugan_1_009
+    400240: SJ_shugan_1_010
+    400242: SJ_shugan_1_011
+    400244: SJ_shugan_1_012
+    400246: SJ_shugan_1_013
+    400248: SJ_shugan_1_014
+    400250: SJ_shugan_1_015
+    400252: SJ_shugan_2_01
+    400254: SJ_shugan_2_02
+    400256: SJ_shugan_2_04
+    400258: SJ_shugan_2_05
+    400260: SJ_shugan_2_06
+    400262: SJ_shugan_2_07
+    400264: SJ_shugan_2_08
+    400266: SJ_shugan_3_01
+    400268: SJ_shugan_3_02
+    400270: SJ_shugan_3_04
+    400272: SJ_shugan_3_05
+    400274: SJ_shugan_3_06
+    400276: SJ_shugan_3_07
+    400278: SJ_shugan_3_08
+    400280: SJ_shugan_4_01
+    400282: SJ_shugan_4_02
+    400284: SJ_shugan_4_03
+    400286: SJ_shugan_4_05
+    400288: SJ_shugan_4_06
+    400290: SJ_shugan_4_07
+    400292: SJ_shugan_4_08
+    400294: SJ_shugan_4_09
+    400296: SJ_tui_01
+    400298: SJ_tui_02
+    400300: SJ_tui_03
+    400302: SJ_tui_04
+    400304: SJ_yatiao_01
+    400306: SJ_yatiao_02
+    400308: SJ_yatiao_03
+    400310: SJ_yatiao_04
+    400312: SJ_yatou_01
+    400314: SJ_yatou_01 1
+    400316: SJ_yatou_03
+    400318: SJ_yatou_04
+    400320: SJ_yatou_05
+    400322: SJ_yatou_06
+    400324: SJ_yatou_07
+    400326: SJ_yatou_08
+    400328: SJ_zhongchougui_01
+    400330: SJ_zhongchougui_02
+    400332: SJ_zhongchougui_03
+    400334: SJ_zhongshugn
+    2300000: SJ_ceban_01
+    2300002: SJ_ceban_02
+    2300004: SJ_cehengzhang_1_005
+    2300006: SJ_cehengzhang_1_006
+    2300008: SJ_cehengzhang_1_007
+    2300010: SJ_cehengzhang_1_008
+    2300012: SJ_cehengzhang_2_01
+    2300014: SJ_cehengzhang_2_02
+    2300016: SJ_cehengzhang_2_03
+    2300018: SJ_cehengzhang_2_04
+    2300020: SJ_cehengzhang_3_01
+    2300022: SJ_cehengzhang_3_02
+    2300024: SJ_cehengzhang_3_03
+    2300026: SJ_cehengzhang_3_04
+    2300028: SJ_cehengzhang_4_01
+    2300030: SJ_cehengzhang_4_02
+    2300032: SJ_cehengzhang_4_03
+    2300034: SJ_cehengzhang_4_04
+    2300036: SJ_cengban_00
+    2300038: SJ_cengban_01
+    2300040: SJ_cengban_02
+    2300042: SJ_cengban_02_1
+    2300044: SJ_cengban_03
+    2300046: SJ_cengban_04
+    2300048: SJ_chaxiao_01
+    2300050: SJ_chaxiao_02
+    2300052: SJ_chaxiao_03
+    2300054: SJ_chaxiao_04
+    2300056: SJ_chaxiao_05
+    2300058: SJ_chaxiao_06
+    2300060: SJ_chaxiao_07
+    2300062: SJ_chaxiao_08
+    2300064: SJ_chouce_01
+    2300066: SJ_chouce_02
+    2300068: SJ_chouce_03
+    2300070: SJ_chouce_04
+    2300072: SJ_choudiban_01
+    2300074: SJ_choudiban_02
+    2300076: SJ_chouhou_01
+    2300078: SJ_chouhou_01 1
+    2300080: SJ_choumian_01
+    2300082: SJ_choumian_02
+    2300084: SJ_dgcd_01
+    2300086: SJ_dgcd_02
+    2300088: SJ_dgcd_03
+    2300090: SJ_dgcd_04
+    2300092: SJ_dgcd_05
+    2300094: SJ_dgcd_06
+    2300096: SJ_dgcd_07
+    2300098: SJ_dgcd_08
+    2300100: SJ_dgcd_09
+    2300102: SJ_dgcd_10
+    2300104: SJ_dgcd_11
+    2300106: SJ_dgcd_12
+    2300108: SJ_dgcd_13
+    2300110: SJ_dgcd_14
+    2300112: SJ_dgdb_01
+    2300114: SJ_dgdb_02
+    2300116: SJ_dgdb_1_003
+    2300118: SJ_dgdb_1_004
+    2300120: SJ_dgdb_2_01
+    2300122: SJ_dgdb_2_02
+    2300124: SJ_dgdb_2_03
+    2300126: SJ_dgdb_2_04
+    2300128: SJ_dgdb_3_01
+    2300130: SJ_dgdb_3_02
+    2300132: SJ_dgdb_4_01
+    2300134: SJ_dgdb_4_02
+    2300136: SJ_dgmt_01
+    2300138: SJ_dgmt_01 1
+    2300140: SJ_didabian_01
+    2300142: SJ_didabian_02
+    2300144: SJ_dimotou_01
+    2300146: SJ_dimotou_02
+    2300148: SJ_dinggai
+    2300150: SJ_hengzhang_1_003
+    2300152: SJ_hengzhang_1_004
+    2300154: SJ_hengzhang_2_01
+    2300156: SJ_hengzhang_2_02
+    2300158: SJ_hengzhang_3_01
+    2300160: SJ_hengzhang_3_02
+    2300162: SJ_hengzhang_4_01
+    2300164: SJ_hengzhang_4_02
+    2300166: SJ_houban_01
+    2300168: SJ_houban_02
+    2300170: SJ_hua_1_006
+    2300172: SJ_hua_1_007
+    2300174: SJ_hua_1_008
+    2300176: SJ_hua_1_009
+    2300178: SJ_hua_1_010
+    2300180: SJ_hua_1_011
+    2300182: SJ_hua_2_01
+    2300184: SJ_hua_2_02
+    2300186: SJ_hua_2_02 1
+    2300188: SJ_hua_2_03
+    2300190: SJ_hua_2_04
+    2300192: SJ_hua_2_05
+    2300194: SJ_hua_3_01
+    2300196: SJ_hua_3_02
+    2300198: SJ_hua_3_02 1
+    2300200: SJ_hua_3_03
+    2300202: SJ_hua_3_04
+    2300204: SJ_hua_3_05
+    2300206: SJ_hua_4_01
+    2300208: SJ_hua_4_02
+    2300210: SJ_hua_4_03
+    2300212: SJ_hua_4_04
+    2300214: SJ_hua_4_05
+    2300216: SJ_motou_1_01
+    2300218: SJ_motou_1_02
+    2300220: SJ_motou_2_01
+    2300222: SJ_motou_2_02
+    2300224: SJ_motou_2_03
+    2300226: SJ_motou_2_04
+    2300228: SJ_motou_3_01
+    2300230: SJ_motou_3_02
+    2300232: SJ_motou_4_01
+    2300234: SJ_motou_4_02
+    2300236: SJ_shugan_1_009
+    2300238: SJ_shugan_1_010
+    2300240: SJ_shugan_1_011
+    2300242: SJ_shugan_1_012
+    2300244: SJ_shugan_1_013
+    2300246: SJ_shugan_1_014
+    2300248: SJ_shugan_1_015
+    2300250: SJ_shugan_2_01
+    2300252: SJ_shugan_2_02
+    2300254: SJ_shugan_2_04
+    2300256: SJ_shugan_2_05
+    2300258: SJ_shugan_2_06
+    2300260: SJ_shugan_2_07
+    2300262: SJ_shugan_2_08
+    2300264: SJ_shugan_3_01
+    2300266: SJ_shugan_3_02
+    2300268: SJ_shugan_3_04
+    2300270: SJ_shugan_3_05
+    2300272: SJ_shugan_3_06
+    2300274: SJ_shugan_3_07
+    2300276: SJ_shugan_3_08
+    2300278: SJ_shugan_4_01
+    2300280: SJ_shugan_4_02
+    2300282: SJ_shugan_4_03
+    2300284: SJ_shugan_4_05
+    2300286: SJ_shugan_4_06
+    2300288: SJ_shugan_4_07
+    2300290: SJ_shugan_4_08
+    2300292: SJ_shugan_4_09
+    2300294: SJ_tui_01
+    2300296: SJ_tui_02
+    2300298: SJ_tui_03
+    2300300: SJ_tui_04
+    2300302: SJ_yatiao_01
+    2300304: SJ_yatiao_02
+    2300306: SJ_yatiao_03
+    2300308: SJ_yatiao_04
+    2300310: SJ_yatou_01
+    2300312: SJ_yatou_01 1
+    2300314: SJ_yatou_03
+    2300316: SJ_yatou_04
+    2300318: SJ_yatou_05
+    2300320: SJ_yatou_06
+    2300322: SJ_yatou_07
+    2300324: SJ_yatou_08
+    2300326: SJ_zhongchougui_01
+    2300328: SJ_zhongchougui_02
+    2300330: SJ_zhongchougui_03
+    2300332: SJ_zhongshugn
+    3300000: SJ_ceban_01
+    3300002: SJ_ceban_02
+    3300004: SJ_cehengzhang_1_005
+    3300006: SJ_cehengzhang_1_006
+    3300008: SJ_cehengzhang_1_007
+    3300010: SJ_cehengzhang_1_008
+    3300012: SJ_cehengzhang_2_01
+    3300014: SJ_cehengzhang_2_02
+    3300016: SJ_cehengzhang_2_03
+    3300018: SJ_cehengzhang_2_04
+    3300020: SJ_cehengzhang_3_01
+    3300022: SJ_cehengzhang_3_02
+    3300024: SJ_cehengzhang_3_03
+    3300026: SJ_cehengzhang_3_04
+    3300028: SJ_cehengzhang_4_01
+    3300030: SJ_cehengzhang_4_02
+    3300032: SJ_cehengzhang_4_03
+    3300034: SJ_cehengzhang_4_04
+    3300036: SJ_cengban_00
+    3300038: SJ_cengban_01
+    3300040: SJ_cengban_02
+    3300042: SJ_cengban_02_1
+    3300044: SJ_cengban_03
+    3300046: SJ_cengban_04
+    3300048: SJ_chaxiao_01
+    3300050: SJ_chaxiao_02
+    3300052: SJ_chaxiao_03
+    3300054: SJ_chaxiao_04
+    3300056: SJ_chaxiao_05
+    3300058: SJ_chaxiao_06
+    3300060: SJ_chaxiao_07
+    3300062: SJ_chaxiao_08
+    3300064: SJ_chouce_01
+    3300066: SJ_chouce_02
+    3300068: SJ_chouce_03
+    3300070: SJ_chouce_04
+    3300072: SJ_choudiban_01
+    3300074: SJ_choudiban_02
+    3300076: SJ_chouhou_01
+    3300078: SJ_chouhou_01 1
+    3300080: SJ_choumian_01
+    3300082: SJ_choumian_02
+    3300084: SJ_dgcd_01
+    3300086: SJ_dgcd_02
+    3300088: SJ_dgcd_03
+    3300090: SJ_dgcd_04
+    3300092: SJ_dgcd_05
+    3300094: SJ_dgcd_06
+    3300096: SJ_dgcd_07
+    3300098: SJ_dgcd_08
+    3300100: SJ_dgcd_09
+    3300102: SJ_dgcd_10
+    3300104: SJ_dgcd_11
+    3300106: SJ_dgcd_12
+    3300108: SJ_dgcd_13
+    3300110: SJ_dgcd_14
+    3300112: SJ_dgdb_01
+    3300114: SJ_dgdb_02
+    3300116: SJ_dgdb_1_003
+    3300118: SJ_dgdb_1_004
+    3300120: SJ_dgdb_2_01
+    3300122: SJ_dgdb_2_02
+    3300124: SJ_dgdb_2_03
+    3300126: SJ_dgdb_2_04
+    3300128: SJ_dgdb_3_01
+    3300130: SJ_dgdb_3_02
+    3300132: SJ_dgdb_4_01
+    3300134: SJ_dgdb_4_02
+    3300136: SJ_dgmt_01
+    3300138: SJ_dgmt_01 1
+    3300140: SJ_didabian_01
+    3300142: SJ_didabian_02
+    3300144: SJ_dimotou_01
+    3300146: SJ_dimotou_02
+    3300148: SJ_dinggai
+    3300150: SJ_hengzhang_1_003
+    3300152: SJ_hengzhang_1_004
+    3300154: SJ_hengzhang_2_01
+    3300156: SJ_hengzhang_2_02
+    3300158: SJ_hengzhang_3_01
+    3300160: SJ_hengzhang_3_02
+    3300162: SJ_hengzhang_4_01
+    3300164: SJ_hengzhang_4_02
+    3300166: SJ_houban_01
+    3300168: SJ_houban_02
+    3300170: SJ_hua_1_006
+    3300172: SJ_hua_1_007
+    3300174: SJ_hua_1_008
+    3300176: SJ_hua_1_009
+    3300178: SJ_hua_1_010
+    3300180: SJ_hua_1_011
+    3300182: SJ_hua_2_01
+    3300184: SJ_hua_2_02
+    3300186: SJ_hua_2_02 1
+    3300188: SJ_hua_2_03
+    3300190: SJ_hua_2_04
+    3300192: SJ_hua_2_05
+    3300194: SJ_hua_3_01
+    3300196: SJ_hua_3_02
+    3300198: SJ_hua_3_02 1
+    3300200: SJ_hua_3_03
+    3300202: SJ_hua_3_04
+    3300204: SJ_hua_3_05
+    3300206: SJ_hua_4_01
+    3300208: SJ_hua_4_02
+    3300210: SJ_hua_4_03
+    3300212: SJ_hua_4_04
+    3300214: SJ_hua_4_05
+    3300216: SJ_motou_1_01
+    3300218: SJ_motou_1_02
+    3300220: SJ_motou_2_01
+    3300222: SJ_motou_2_02
+    3300224: SJ_motou_2_03
+    3300226: SJ_motou_2_04
+    3300228: SJ_motou_3_01
+    3300230: SJ_motou_3_02
+    3300232: SJ_motou_4_01
+    3300234: SJ_motou_4_02
+    3300236: SJ_shugan_1_009
+    3300238: SJ_shugan_1_010
+    3300240: SJ_shugan_1_011
+    3300242: SJ_shugan_1_012
+    3300244: SJ_shugan_1_013
+    3300246: SJ_shugan_1_014
+    3300248: SJ_shugan_1_015
+    3300250: SJ_shugan_2_01
+    3300252: SJ_shugan_2_02
+    3300254: SJ_shugan_2_04
+    3300256: SJ_shugan_2_05
+    3300258: SJ_shugan_2_06
+    3300260: SJ_shugan_2_07
+    3300262: SJ_shugan_2_08
+    3300264: SJ_shugan_3_01
+    3300266: SJ_shugan_3_02
+    3300268: SJ_shugan_3_04
+    3300270: SJ_shugan_3_05
+    3300272: SJ_shugan_3_06
+    3300274: SJ_shugan_3_07
+    3300276: SJ_shugan_3_08
+    3300278: SJ_shugan_4_01
+    3300280: SJ_shugan_4_02
+    3300282: SJ_shugan_4_03
+    3300284: SJ_shugan_4_05
+    3300286: SJ_shugan_4_06
+    3300288: SJ_shugan_4_07
+    3300290: SJ_shugan_4_08
+    3300292: SJ_shugan_4_09
+    3300294: SJ_tui_01
+    3300296: SJ_tui_02
+    3300298: SJ_tui_03
+    3300300: SJ_tui_04
+    3300302: SJ_yatiao_01
+    3300304: SJ_yatiao_02
+    3300306: SJ_yatiao_03
+    3300308: SJ_yatiao_04
+    3300310: SJ_yatou_01
+    3300312: SJ_yatou_01 1
+    3300314: SJ_yatou_03
+    3300316: SJ_yatou_04
+    3300318: SJ_yatou_05
+    3300320: SJ_yatou_06
+    3300322: SJ_yatou_07
+    3300324: SJ_yatou_08
+    3300326: SJ_zhongchougui_01
+    3300328: SJ_zhongchougui_02
+    3300330: SJ_zhongchougui_03
+    3300332: SJ_zhongshugn
+    4300000: SJ_dinggai
+    4300002: SJ_dgcd_01
+    4300004: SJ_dgcd_02
+    4300006: SJ_dgdb_01
+    4300008: SJ_dgmt_01
+    4300010: SJ_dgcd_14
+    4300012: SJ_dgcd_13
+    4300014: SJ_cengban_00
+    4300016: SJ_yatou_08
+    4300018: SJ_yatou_07
+    4300020: SJ_dgcd_09
+    4300022: SJ_dgdb_2_03
+    4300024: SJ_dgcd_10
+    4300026: SJ_cengban_02_1
+    4300028: SJ_dgcd_08
+    4300030: SJ_cengban_02
+    4300032: SJ_dgcd_07
+    4300034: SJ_dgcd_03
+    4300036: SJ_dgcd_04
+    4300038: SJ_cengban_04
+    4300040: SJ_zhongchougui_02
+    4300042: SJ_zhongshugn
+    4300044: SJ_ceban_01
+    4300046: SJ_houban_01
+    4300048: SJ_dgdb_2_02
+    4300050: SJ_dgdb_4_01
+    4300052: SJ_dgdb_4_02
+    4300054: SJ_dimotou_02
+    4300056: SJ_dgdb_2_04
+    4300058: SJ_motou_2_02
+    4300060: SJ_tui_03
+    4300062: SJ_tui_04
+    4300064: SJ_motou_2_03
+    4300066: SJ_didabian_02
+    4300068: SJ_choumian_01
+    4300070: SJ_chouce_02
+    4300072: SJ_chouhou_01
+    4300074: SJ_choudiban_01
+    4300076: SJ_chouce_01
+    4300078: SJ_motou_4_01
+    4300080: SJ_motou_4_02
+    4300082: SJ_zhongchougui_03
+    4300084: SJ_shugan_4_03
+    4300086: SJ_hua_4_04
+    4300088: SJ_shugan_4_02
+    4300090: SJ_cehengzhang_4_01
+    4300092: SJ_shugan_4_09
+    4300094: SJ_cehengzhang_4_03
+    4300096: SJ_yatiao_03
+    4300098: SJ_yatou_06
+    4300100: SJ_yatou_05
+    4300102: SJ_chaxiao_08
+    4300104: SJ_yatiao_04
+    4300106: SJ_chaxiao_07
+    4300108: SJ_chaxiao_05
+    4300110: SJ_chaxiao_06
+    4300112: SJ_shugan_4_08
+    4300114: SJ_shugan_4_01
+    4300116: SJ_hengzhang_4_01
+    4300118: SJ_hengzhang_4_02
+    4300120: SJ_shugan_4_05
+    4300122: SJ_dgdb_2_01
+    4300124: SJ_dgdb_02
+    4300126: SJ_dgmt_01
+    4300128: SJ_hua_4_03
+    4300130: SJ_hua_4_02
+    4300132: SJ_hua_4_05
+    4300134: SJ_hua_4_01
+    4300136: SJ_cehengzhang_4_02
+    4300138: SJ_shugan_4_06
+    4300140: SJ_cehengzhang_4_04
+    4300142: SJ_shugan_4_07
+    4300144: SJ_dgcd_05
+    4300146: SJ_dgcd_06
+    4300148: SJ_cengban_03
+    4300150: SJ_dgdb_3_02
+    4300152: SJ_dgdb_3_01
+    4300154: SJ_cehengzhang_3_04
+    4300156: SJ_shugan_3_07
+    4300158: SJ_motou_3_01
+    4300160: SJ_motou_3_02
+    4300162: SJ_shugan_3_05
+    4300164: SJ_hua_3_04
+    4300166: SJ_shugan_3_04
+    4300168: SJ_cehengzhang_3_01
+    4300170: SJ_shugan_3_02
+    4300172: SJ_cehengzhang_3_03
+    4300174: SJ_shugan_3_01
+    4300176: SJ_hua_3_02
+    4300178: SJ_hengzhang_3_01
+    4300180: SJ_hengzhang_3_02
+    4300182: SJ_shugan_3_06
+    4300184: SJ_cehengzhang_3_02
+    4300186: SJ_hua_3_01
+    4300188: SJ_hua_3_03
+    4300190: SJ_hua_3_02
+    4300192: SJ_hua_3_05
+    4300194: SJ_shugan_3_08
+    4300196: SJ_hua_2_02
+    4300198: SJ_hengzhang_2_01
+    4300200: SJ_hengzhang_2_02
+    4300202: SJ_hua_2_03
+    4300204: SJ_hua_2_02
+    4300206: SJ_shugan_2_04
+    4300208: SJ_hua_2_04
+    4300210: SJ_shugan_2_05
+    4300212: SJ_shugan_2_06
+    4300214: SJ_shugan_2_07
+    4300216: SJ_cehengzhang_2_02
+    4300218: SJ_hua_2_05
+    4300220: SJ_cehengzhang_2_04
+    4300222: SJ_shugan_2_08
+    4300224: SJ_cehengzhang_2_03
+    4300226: SJ_shugan_2_01
+    4300228: SJ_hua_2_01
+    4300230: SJ_cehengzhang_2_01
+    4300232: SJ_shugan_2_02
+    4300234: SJ_choudiban_02
+    4300236: SJ_motou_2_01
+    4300238: SJ_chouhou_01
+    4300240: SJ_houban_02
+    4300242: SJ_chouce_04
+    4300244: SJ_choumian_02
+    4300246: SJ_chouce_03
+    4300248: SJ_ceban_02
+    4300250: SJ_zhongchougui_01
+    4300252: SJ_shugan_1_009
+    4300254: SJ_cengban_01
+    4300256: SJ_dgdb_1_003
+    4300258: SJ_dgdb_1_004
+    4300260: SJ_dgcd_12
+    4300262: SJ_dgcd_11
+    4300264: SJ_hengzhang_1_003
+    4300266: SJ_hengzhang_1_004
+    4300268: SJ_hua_1_006
+    4300270: SJ_hua_1_007
+    4300272: SJ_shugan_1_010
+    4300274: SJ_hua_1_008
+    4300276: SJ_cehengzhang_1_005
+    4300278: SJ_cehengzhang_1_006
+    4300280: SJ_hua_1_009
+    4300282: SJ_motou_1_01
+    4300284: SJ_shugan_1_011
+    4300286: SJ_shugan_1_012
+    4300288: SJ_motou_1_02
+    4300290: SJ_cehengzhang_1_007
+    4300292: SJ_hua_1_010
+    4300294: SJ_cehengzhang_1_008
+    4300296: SJ_shugan_1_013
+    4300298: SJ_hua_1_011
+    4300300: SJ_shugan_1_014
+    4300302: SJ_shugan_1_015
+    4300304: SJ_motou_2_04
+    4300306: SJ_didabian_01
+    4300308: SJ_dimotou_01
+    4300310: SJ_tui_01
+    4300312: SJ_tui_02
+    4300314: SJ_yatiao_02
+    4300316: SJ_chaxiao_03
+    4300318: SJ_yatou_03
+    4300320: SJ_chaxiao_04
+    4300322: SJ_yatou_04
+    4300324: SJ_yatou_01
+    4300326: SJ_chaxiao_01
+    4300328: SJ_yatiao_01
+    4300330: SJ_chaxiao_02
+    4300332: SJ_yatou_01
+    7400000: Take 001
+    7400002: 2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 159
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 3cad69a6f63747449aa41d5ec54b2ccc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: PlayOver
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 3cad69a6f63747449aa41d5ec54b2ccc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SJ_ceban_01
+        weight: 1
+      - path: SJ_ceban_02
+        weight: 1
+      - path: SJ_cehengzhang_1_005
+        weight: 1
+      - path: SJ_cehengzhang_1_006
+        weight: 1
+      - path: SJ_cehengzhang_1_007
+        weight: 1
+      - path: SJ_cehengzhang_1_008
+        weight: 1
+      - path: SJ_cehengzhang_2_01
+        weight: 1
+      - path: SJ_cehengzhang_2_02
+        weight: 1
+      - path: SJ_cehengzhang_2_03
+        weight: 1
+      - path: SJ_cehengzhang_2_04
+        weight: 1
+      - path: SJ_cehengzhang_3_01
+        weight: 1
+      - path: SJ_cehengzhang_3_02
+        weight: 1
+      - path: SJ_cehengzhang_3_03
+        weight: 1
+      - path: SJ_cehengzhang_3_04
+        weight: 1
+      - path: SJ_cehengzhang_4_01
+        weight: 1
+      - path: SJ_cehengzhang_4_02
+        weight: 1
+      - path: SJ_cehengzhang_4_03
+        weight: 1
+      - path: SJ_cehengzhang_4_04
+        weight: 1
+      - path: SJ_cengban_00
+        weight: 1
+      - path: SJ_cengban_01
+        weight: 1
+      - path: SJ_cengban_02
+        weight: 1
+      - path: SJ_cengban_02_1
+        weight: 1
+      - path: SJ_cengban_03
+        weight: 1
+      - path: SJ_cengban_04
+        weight: 1
+      - path: SJ_chaxiao_01
+        weight: 1
+      - path: SJ_chaxiao_02
+        weight: 1
+      - path: SJ_chaxiao_03
+        weight: 1
+      - path: SJ_chaxiao_04
+        weight: 1
+      - path: SJ_chaxiao_05
+        weight: 1
+      - path: SJ_chaxiao_06
+        weight: 1
+      - path: SJ_chaxiao_07
+        weight: 1
+      - path: SJ_chaxiao_08
+        weight: 1
+      - path: SJ_chouce_01
+        weight: 1
+      - path: SJ_chouce_02
+        weight: 1
+      - path: SJ_chouce_03
+        weight: 1
+      - path: SJ_chouce_04
+        weight: 1
+      - path: SJ_choudiban_01
+        weight: 1
+      - path: SJ_choudiban_02
+        weight: 1
+      - path: SJ_chouhou_01
+        weight: 1
+      - path: SJ_chouhou_01 1
+        weight: 1
+      - path: SJ_choumian_01
+        weight: 1
+      - path: SJ_choumian_02
+        weight: 1
+      - path: SJ_dgcd_01
+        weight: 1
+      - path: SJ_dgcd_02
+        weight: 1
+      - path: SJ_dgcd_03
+        weight: 1
+      - path: SJ_dgcd_04
+        weight: 1
+      - path: SJ_dgcd_05
+        weight: 1
+      - path: SJ_dgcd_06
+        weight: 1
+      - path: SJ_dgcd_07
+        weight: 1
+      - path: SJ_dgcd_08
+        weight: 1
+      - path: SJ_dgcd_09
+        weight: 1
+      - path: SJ_dgcd_10
+        weight: 1
+      - path: SJ_dgcd_11
+        weight: 1
+      - path: SJ_dgcd_12
+        weight: 1
+      - path: SJ_dgcd_13
+        weight: 1
+      - path: SJ_dgcd_14
+        weight: 1
+      - path: SJ_dgdb_01
+        weight: 1
+      - path: SJ_dgdb_1_003
+        weight: 1
+      - path: SJ_dgdb_1_004
+        weight: 1
+      - path: SJ_dgdb_02
+        weight: 1
+      - path: SJ_dgdb_2_01
+        weight: 1
+      - path: SJ_dgdb_2_02
+        weight: 1
+      - path: SJ_dgdb_2_03
+        weight: 1
+      - path: SJ_dgdb_2_04
+        weight: 1
+      - path: SJ_dgdb_3_01
+        weight: 1
+      - path: SJ_dgdb_3_02
+        weight: 1
+      - path: SJ_dgdb_4_01
+        weight: 1
+      - path: SJ_dgdb_4_02
+        weight: 1
+      - path: SJ_dgmt_01
+        weight: 1
+      - path: SJ_dgmt_01 1
+        weight: 1
+      - path: SJ_didabian_01
+        weight: 1
+      - path: SJ_didabian_02
+        weight: 1
+      - path: SJ_dimotou_01
+        weight: 1
+      - path: SJ_dimotou_02
+        weight: 1
+      - path: SJ_dinggai
+        weight: 1
+      - path: SJ_hengzhang_1_003
+        weight: 1
+      - path: SJ_hengzhang_1_004
+        weight: 1
+      - path: SJ_hengzhang_2_01
+        weight: 1
+      - path: SJ_hengzhang_2_02
+        weight: 1
+      - path: SJ_hengzhang_3_01
+        weight: 1
+      - path: SJ_hengzhang_3_02
+        weight: 1
+      - path: SJ_hengzhang_4_01
+        weight: 1
+      - path: SJ_hengzhang_4_02
+        weight: 1
+      - path: SJ_houban_01
+        weight: 1
+      - path: SJ_houban_02
+        weight: 1
+      - path: SJ_hua_1_006
+        weight: 1
+      - path: SJ_hua_1_007
+        weight: 1
+      - path: SJ_hua_1_008
+        weight: 1
+      - path: SJ_hua_1_009
+        weight: 1
+      - path: SJ_hua_1_010
+        weight: 1
+      - path: SJ_hua_1_011
+        weight: 1
+      - path: SJ_hua_2_01
+        weight: 1
+      - path: SJ_hua_2_02
+        weight: 1
+      - path: SJ_hua_2_02 1
+        weight: 1
+      - path: SJ_hua_2_03
+        weight: 1
+      - path: SJ_hua_2_04
+        weight: 1
+      - path: SJ_hua_2_05
+        weight: 1
+      - path: SJ_hua_3_01
+        weight: 1
+      - path: SJ_hua_3_02
+        weight: 1
+      - path: SJ_hua_3_02 1
+        weight: 1
+      - path: SJ_hua_3_03
+        weight: 1
+      - path: SJ_hua_3_04
+        weight: 1
+      - path: SJ_hua_3_05
+        weight: 1
+      - path: SJ_hua_4_01
+        weight: 1
+      - path: SJ_hua_4_02
+        weight: 1
+      - path: SJ_hua_4_03
+        weight: 1
+      - path: SJ_hua_4_04
+        weight: 1
+      - path: SJ_hua_4_05
+        weight: 1
+      - path: SJ_motou_1_01
+        weight: 1
+      - path: SJ_motou_1_02
+        weight: 1
+      - path: SJ_motou_2_01
+        weight: 1
+      - path: SJ_motou_2_02
+        weight: 1
+      - path: SJ_motou_2_03
+        weight: 1
+      - path: SJ_motou_2_04
+        weight: 1
+      - path: SJ_motou_3_01
+        weight: 1
+      - path: SJ_motou_3_02
+        weight: 1
+      - path: SJ_motou_4_01
+        weight: 1
+      - path: SJ_motou_4_02
+        weight: 1
+      - path: SJ_shugan_1_009
+        weight: 1
+      - path: SJ_shugan_1_010
+        weight: 1
+      - path: SJ_shugan_1_011
+        weight: 1
+      - path: SJ_shugan_1_012
+        weight: 1
+      - path: SJ_shugan_1_013
+        weight: 1
+      - path: SJ_shugan_1_014
+        weight: 1
+      - path: SJ_shugan_1_015
+        weight: 1
+      - path: SJ_shugan_2_01
+        weight: 1
+      - path: SJ_shugan_2_02
+        weight: 1
+      - path: SJ_shugan_2_04
+        weight: 1
+      - path: SJ_shugan_2_05
+        weight: 1
+      - path: SJ_shugan_2_06
+        weight: 1
+      - path: SJ_shugan_2_07
+        weight: 1
+      - path: SJ_shugan_2_08
+        weight: 1
+      - path: SJ_shugan_3_01
+        weight: 1
+      - path: SJ_shugan_3_02
+        weight: 1
+      - path: SJ_shugan_3_04
+        weight: 1
+      - path: SJ_shugan_3_05
+        weight: 1
+      - path: SJ_shugan_3_06
+        weight: 1
+      - path: SJ_shugan_3_07
+        weight: 1
+      - path: SJ_shugan_3_08
+        weight: 1
+      - path: SJ_shugan_4_01
+        weight: 1
+      - path: SJ_shugan_4_02
+        weight: 1
+      - path: SJ_shugan_4_03
+        weight: 1
+      - path: SJ_shugan_4_05
+        weight: 1
+      - path: SJ_shugan_4_06
+        weight: 1
+      - path: SJ_shugan_4_07
+        weight: 1
+      - path: SJ_shugan_4_08
+        weight: 1
+      - path: SJ_shugan_4_09
+        weight: 1
+      - path: SJ_tui_01
+        weight: 1
+      - path: SJ_tui_02
+        weight: 1
+      - path: SJ_tui_03
+        weight: 1
+      - path: SJ_tui_04
+        weight: 1
+      - path: SJ_yatiao_01
+        weight: 1
+      - path: SJ_yatiao_02
+        weight: 1
+      - path: SJ_yatiao_03
+        weight: 1
+      - path: SJ_yatiao_04
+        weight: 1
+      - path: SJ_yatou_01
+        weight: 1
+      - path: SJ_yatou_01 1
+        weight: 1
+      - path: SJ_yatou_03
+        weight: 1
+      - path: SJ_yatou_04
+        weight: 1
+      - path: SJ_yatou_05
+        weight: 1
+      - path: SJ_yatou_06
+        weight: 1
+      - path: SJ_yatou_07
+        weight: 1
+      - path: SJ_yatou_08
+        weight: 1
+      - path: SJ_zhongchougui_01
+        weight: 1
+      - path: SJ_zhongchougui_02
+        weight: 1
+      - path: SJ_zhongchougui_03
+        weight: 1
+      - path: SJ_zhongshugn
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 2
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 159
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 3cad69a6f63747449aa41d5ec54b2ccc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayOver
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 3cad69a6f63747449aa41d5ec54b2ccc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SJ_ceban_01
+        weight: 1
+      - path: SJ_ceban_02
+        weight: 1
+      - path: SJ_cehengzhang_1_005
+        weight: 1
+      - path: SJ_cehengzhang_1_006
+        weight: 1
+      - path: SJ_cehengzhang_1_007
+        weight: 1
+      - path: SJ_cehengzhang_1_008
+        weight: 1
+      - path: SJ_cehengzhang_2_01
+        weight: 1
+      - path: SJ_cehengzhang_2_02
+        weight: 1
+      - path: SJ_cehengzhang_2_03
+        weight: 1
+      - path: SJ_cehengzhang_2_04
+        weight: 1
+      - path: SJ_cehengzhang_3_01
+        weight: 1
+      - path: SJ_cehengzhang_3_02
+        weight: 1
+      - path: SJ_cehengzhang_3_03
+        weight: 1
+      - path: SJ_cehengzhang_3_04
+        weight: 1
+      - path: SJ_cehengzhang_4_01
+        weight: 1
+      - path: SJ_cehengzhang_4_02
+        weight: 1
+      - path: SJ_cehengzhang_4_03
+        weight: 1
+      - path: SJ_cehengzhang_4_04
+        weight: 1
+      - path: SJ_cengban_00
+        weight: 1
+      - path: SJ_cengban_01
+        weight: 1
+      - path: SJ_cengban_02
+        weight: 1
+      - path: SJ_cengban_02_1
+        weight: 1
+      - path: SJ_cengban_03
+        weight: 1
+      - path: SJ_cengban_04
+        weight: 1
+      - path: SJ_chaxiao_01
+        weight: 1
+      - path: SJ_chaxiao_02
+        weight: 1
+      - path: SJ_chaxiao_03
+        weight: 1
+      - path: SJ_chaxiao_04
+        weight: 1
+      - path: SJ_chaxiao_05
+        weight: 1
+      - path: SJ_chaxiao_06
+        weight: 1
+      - path: SJ_chaxiao_07
+        weight: 1
+      - path: SJ_chaxiao_08
+        weight: 1
+      - path: SJ_chouce_01
+        weight: 1
+      - path: SJ_chouce_02
+        weight: 1
+      - path: SJ_chouce_03
+        weight: 1
+      - path: SJ_chouce_04
+        weight: 1
+      - path: SJ_choudiban_01
+        weight: 1
+      - path: SJ_choudiban_02
+        weight: 1
+      - path: SJ_chouhou_01
+        weight: 1
+      - path: SJ_chouhou_01 1
+        weight: 1
+      - path: SJ_choumian_01
+        weight: 1
+      - path: SJ_choumian_02
+        weight: 1
+      - path: SJ_dgcd_01
+        weight: 1
+      - path: SJ_dgcd_02
+        weight: 1
+      - path: SJ_dgcd_03
+        weight: 1
+      - path: SJ_dgcd_04
+        weight: 1
+      - path: SJ_dgcd_05
+        weight: 1
+      - path: SJ_dgcd_06
+        weight: 1
+      - path: SJ_dgcd_07
+        weight: 1
+      - path: SJ_dgcd_08
+        weight: 1
+      - path: SJ_dgcd_09
+        weight: 1
+      - path: SJ_dgcd_10
+        weight: 1
+      - path: SJ_dgcd_11
+        weight: 1
+      - path: SJ_dgcd_12
+        weight: 1
+      - path: SJ_dgcd_13
+        weight: 1
+      - path: SJ_dgcd_14
+        weight: 1
+      - path: SJ_dgdb_01
+        weight: 1
+      - path: SJ_dgdb_1_003
+        weight: 1
+      - path: SJ_dgdb_1_004
+        weight: 1
+      - path: SJ_dgdb_02
+        weight: 1
+      - path: SJ_dgdb_2_01
+        weight: 1
+      - path: SJ_dgdb_2_02
+        weight: 1
+      - path: SJ_dgdb_2_03
+        weight: 1
+      - path: SJ_dgdb_2_04
+        weight: 1
+      - path: SJ_dgdb_3_01
+        weight: 1
+      - path: SJ_dgdb_3_02
+        weight: 1
+      - path: SJ_dgdb_4_01
+        weight: 1
+      - path: SJ_dgdb_4_02
+        weight: 1
+      - path: SJ_dgmt_01
+        weight: 1
+      - path: SJ_dgmt_01 1
+        weight: 1
+      - path: SJ_didabian_01
+        weight: 1
+      - path: SJ_didabian_02
+        weight: 1
+      - path: SJ_dimotou_01
+        weight: 1
+      - path: SJ_dimotou_02
+        weight: 1
+      - path: SJ_dinggai
+        weight: 1
+      - path: SJ_hengzhang_1_003
+        weight: 1
+      - path: SJ_hengzhang_1_004
+        weight: 1
+      - path: SJ_hengzhang_2_01
+        weight: 1
+      - path: SJ_hengzhang_2_02
+        weight: 1
+      - path: SJ_hengzhang_3_01
+        weight: 1
+      - path: SJ_hengzhang_3_02
+        weight: 1
+      - path: SJ_hengzhang_4_01
+        weight: 1
+      - path: SJ_hengzhang_4_02
+        weight: 1
+      - path: SJ_houban_01
+        weight: 1
+      - path: SJ_houban_02
+        weight: 1
+      - path: SJ_hua_1_006
+        weight: 1
+      - path: SJ_hua_1_007
+        weight: 1
+      - path: SJ_hua_1_008
+        weight: 1
+      - path: SJ_hua_1_009
+        weight: 1
+      - path: SJ_hua_1_010
+        weight: 1
+      - path: SJ_hua_1_011
+        weight: 1
+      - path: SJ_hua_2_01
+        weight: 1
+      - path: SJ_hua_2_02
+        weight: 1
+      - path: SJ_hua_2_02 1
+        weight: 1
+      - path: SJ_hua_2_03
+        weight: 1
+      - path: SJ_hua_2_04
+        weight: 1
+      - path: SJ_hua_2_05
+        weight: 1
+      - path: SJ_hua_3_01
+        weight: 1
+      - path: SJ_hua_3_02
+        weight: 1
+      - path: SJ_hua_3_02 1
+        weight: 1
+      - path: SJ_hua_3_03
+        weight: 1
+      - path: SJ_hua_3_04
+        weight: 1
+      - path: SJ_hua_3_05
+        weight: 1
+      - path: SJ_hua_4_01
+        weight: 1
+      - path: SJ_hua_4_02
+        weight: 1
+      - path: SJ_hua_4_03
+        weight: 1
+      - path: SJ_hua_4_04
+        weight: 1
+      - path: SJ_hua_4_05
+        weight: 1
+      - path: SJ_motou_1_01
+        weight: 1
+      - path: SJ_motou_1_02
+        weight: 1
+      - path: SJ_motou_2_01
+        weight: 1
+      - path: SJ_motou_2_02
+        weight: 1
+      - path: SJ_motou_2_03
+        weight: 1
+      - path: SJ_motou_2_04
+        weight: 1
+      - path: SJ_motou_3_01
+        weight: 1
+      - path: SJ_motou_3_02
+        weight: 1
+      - path: SJ_motou_4_01
+        weight: 1
+      - path: SJ_motou_4_02
+        weight: 1
+      - path: SJ_shugan_1_009
+        weight: 1
+      - path: SJ_shugan_1_010
+        weight: 1
+      - path: SJ_shugan_1_011
+        weight: 1
+      - path: SJ_shugan_1_012
+        weight: 1
+      - path: SJ_shugan_1_013
+        weight: 1
+      - path: SJ_shugan_1_014
+        weight: 1
+      - path: SJ_shugan_1_015
+        weight: 1
+      - path: SJ_shugan_2_01
+        weight: 1
+      - path: SJ_shugan_2_02
+        weight: 1
+      - path: SJ_shugan_2_04
+        weight: 1
+      - path: SJ_shugan_2_05
+        weight: 1
+      - path: SJ_shugan_2_06
+        weight: 1
+      - path: SJ_shugan_2_07
+        weight: 1
+      - path: SJ_shugan_2_08
+        weight: 1
+      - path: SJ_shugan_3_01
+        weight: 1
+      - path: SJ_shugan_3_02
+        weight: 1
+      - path: SJ_shugan_3_04
+        weight: 1
+      - path: SJ_shugan_3_05
+        weight: 1
+      - path: SJ_shugan_3_06
+        weight: 1
+      - path: SJ_shugan_3_07
+        weight: 1
+      - path: SJ_shugan_3_08
+        weight: 1
+      - path: SJ_shugan_4_01
+        weight: 1
+      - path: SJ_shugan_4_02
+        weight: 1
+      - path: SJ_shugan_4_03
+        weight: 1
+      - path: SJ_shugan_4_05
+        weight: 1
+      - path: SJ_shugan_4_06
+        weight: 1
+      - path: SJ_shugan_4_07
+        weight: 1
+      - path: SJ_shugan_4_08
+        weight: 1
+      - path: SJ_shugan_4_09
+        weight: 1
+      - path: SJ_tui_01
+        weight: 1
+      - path: SJ_tui_02
+        weight: 1
+      - path: SJ_tui_03
+        weight: 1
+      - path: SJ_tui_04
+        weight: 1
+      - path: SJ_yatiao_01
+        weight: 1
+      - path: SJ_yatiao_02
+        weight: 1
+      - path: SJ_yatiao_03
+        weight: 1
+      - path: SJ_yatiao_04
+        weight: 1
+      - path: SJ_yatou_01
+        weight: 1
+      - path: SJ_yatou_01 1
+        weight: 1
+      - path: SJ_yatou_03
+        weight: 1
+      - path: SJ_yatou_04
+        weight: 1
+      - path: SJ_yatou_05
+        weight: 1
+      - path: SJ_yatou_06
+        weight: 1
+      - path: SJ_yatou_07
+        weight: 1
+      - path: SJ_yatou_08
+        weight: 1
+      - path: SJ_zhongchougui_01
+        weight: 1
+      - path: SJ_zhongchougui_02
+        weight: 1
+      - path: SJ_zhongchougui_03
+        weight: 1
+      - path: SJ_zhongshugn
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

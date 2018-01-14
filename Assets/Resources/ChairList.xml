@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Chair>
+	<!-- id 编号  ObjName 椅子的ObjName  RealName 椅子真名  Baozha 爆炸动画名字 -->
+  <Chair id="1" ObjName="Chair1" RealName="椅子1" Baozha="take001"/>
+  <Chair id="11" ObjName="Chair11" RealName="椅子11" Baozha="take0011"/>
+  <Chair id="12" ObjName="Chair12" RealName="椅子12" Baozha="take0012"/>
+  <Chair id="13" ObjName="Chair13" RealName="椅子13" Baozha="take0013"/>
+
+  <Chair id="2" ObjName="Chair2" RealName="椅子2" Baozha="take002"/>
+  <Chair id="21" ObjName="Chair21" RealName="椅子21" Baozha="take0021"/>
+  <Chair id="22" ObjName="Chair22" RealName="椅子22" Baozha="take0022"/>
+  <Chair id="23" ObjName="Chair23" RealName="椅子23" Baozha="take0023"/>
+
+  <Chair id="3" ObjName="Chair3" RealName="椅子3" Baozha="take003"/>
+  <Chair id="31" ObjName="Chair31" RealName="椅子31" Baozha="take0031"/>
+  <Chair id="32" ObjName="Chair32" RealName="椅子32" Baozha="take0032"/>
+  <Chair id="33" ObjName="Chair33" RealName="椅子33" Baozha="take0033"/>
+
+  <Chair id="4" ObjName="Chair4" RealName="椅子4" Baozha="take004"/>
+  <Chair id="41" ObjName="Chair41" RealName="椅子41" Baozha="take0041"/>
+  <Chair id="42" ObjName="Chair42" RealName="椅子42" Baozha="take0042"/>
+  <Chair id="43" ObjName="Chair43" RealName="椅子43" Baozha="take0043"/>
+
+  <Chair id="5" ObjName="Chair5" RealName="椅子5" Baozha="take005"/>
+  <Chair id="51" ObjName="Chair51" RealName="椅子51" Baozha="take0051"/>
+  <Chair id="52" ObjName="Chair52" RealName="椅子52" Baozha="take0052"/>
+  <Chair id="53" ObjName="Chair53" RealName="椅子53" Baozha="take0053"/>
+
+  <Chair id="6" ObjName="Chair6" RealName="椅子6" Baozha="take006"/>
+  <Chair id="61" ObjName="Chair61" RealName="椅子61" Baozha="take0061"/>
+  <Chair id="62" ObjName="Chair62" RealName="椅子62" Baozha="take0062"/>
+  <Chair id="63" ObjName="Chair63" RealName="椅子63" Baozha="take0063"/>
+
+  <Chair id="7" ObjName="Chair7" RealName="椅子7" Baozha="take007"/>
+  <Chair id="71" ObjName="Chair71" RealName="椅子71" Baozha="take0071"/>
+  <Chair id="72" ObjName="Chair72" RealName="椅子72" Baozha="take0072"/>
+  <Chair id="73" ObjName="Chair73" RealName="椅子73" Baozha="take0073"/>
+
+</Chair>

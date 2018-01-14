@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: eed1cbf3acd766d4f9dd202807246b2b
+timeCreated: 1493948677
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SJ_J_ceban_01
+    100004: SJ_J_ceban_02
+    100006: SJ_J_cengban_02
+    100008: SJ_J_cengban_02_1
+    100010: SJ_J_chouce_01
+    100012: SJ_J_chouce_02
+    100014: SJ_J_chouce_03
+    100016: SJ_J_chouce_04
+    100018: SJ_J_choudiban_01
+    100020: SJ_J_choudiban_02
+    100022: SJ_J_chouhou_01
+    100024: SJ_J_chouhou_012
+    100026: SJ_J_choumian_01
+    100028: SJ_J_choumian_02
+    100030: SJ_J_dgcd_07
+    100032: SJ_J_dgcd_08
+    100034: SJ_J_dgcd_09
+    100036: SJ_J_dgcd_10
+    100038: SJ_J_dgdb_2_01
+    100040: SJ_J_dgdb_2_02
+    100042: SJ_J_dgdb_2_03
+    100044: SJ_J_dgdb_2_04
+    100046: SJ_J_houban_01
+    100048: SJ_J_houban_02
+    100050: SJ_J_motou_2_01
+    100052: SJ_J_motou_2_02
+    100054: SJ_J_motou_2_03
+    100056: SJ_J_motou_2_04
+    100058: SJ_J_tui_01
+    100060: SJ_J_tui_02
+    100062: SJ_J_tui_03
+    100064: SJ_J_tui_04
+    100066: SJ_J_zhongchougui_01
+    100068: SJ_J_zhongchougui_02
+    100070: SJ_J_zhongchougui_03
+    100072: SJ_J_zhongshugn
+    400000: //RootNode
+    400002: SJ_J_ceban_01
+    400004: SJ_J_ceban_02
+    400006: SJ_J_cengban_02
+    400008: SJ_J_cengban_02_1
+    400010: SJ_J_chouce_01
+    400012: SJ_J_chouce_02
+    400014: SJ_J_chouce_03
+    400016: SJ_J_chouce_04
+    400018: SJ_J_choudiban_01
+    400020: SJ_J_choudiban_02
+    400022: SJ_J_chouhou_01
+    400024: SJ_J_chouhou_012
+    400026: SJ_J_choumian_01
+    400028: SJ_J_choumian_02
+    400030: SJ_J_dgcd_07
+    400032: SJ_J_dgcd_08
+    400034: SJ_J_dgcd_09
+    400036: SJ_J_dgcd_10
+    400038: SJ_J_dgdb_2_01
+    400040: SJ_J_dgdb_2_02
+    400042: SJ_J_dgdb_2_03
+    400044: SJ_J_dgdb_2_04
+    400046: SJ_J_houban_01
+    400048: SJ_J_houban_02
+    400050: SJ_J_motou_2_01
+    400052: SJ_J_motou_2_02
+    400054: SJ_J_motou_2_03
+    400056: SJ_J_motou_2_04
+    400058: SJ_J_tui_01
+    400060: SJ_J_tui_02
+    400062: SJ_J_tui_03
+    400064: SJ_J_tui_04
+    400066: SJ_J_zhongchougui_01
+    400068: SJ_J_zhongchougui_02
+    400070: SJ_J_zhongchougui_03
+    400072: SJ_J_zhongshugn
+    2300000: SJ_J_ceban_01
+    2300002: SJ_J_ceban_02
+    2300004: SJ_J_cengban_02
+    2300006: SJ_J_cengban_02_1
+    2300008: SJ_J_chouce_01
+    2300010: SJ_J_chouce_02
+    2300012: SJ_J_chouce_03
+    2300014: SJ_J_chouce_04
+    2300016: SJ_J_choudiban_01
+    2300018: SJ_J_choudiban_02
+    2300020: SJ_J_chouhou_01
+    2300022: SJ_J_chouhou_012
+    2300024: SJ_J_choumian_01
+    2300026: SJ_J_choumian_02
+    2300028: SJ_J_dgcd_07
+    2300030: SJ_J_dgcd_08
+    2300032: SJ_J_dgcd_09
+    2300034: SJ_J_dgcd_10
+    2300036: SJ_J_dgdb_2_01
+    2300038: SJ_J_dgdb_2_02
+    2300040: SJ_J_dgdb_2_03
+    2300042: SJ_J_dgdb_2_04
+    2300044: SJ_J_houban_01
+    2300046: SJ_J_houban_02
+    2300048: SJ_J_motou_2_01
+    2300050: SJ_J_motou_2_02
+    2300052: SJ_J_motou_2_03
+    2300054: SJ_J_motou_2_04
+    2300056: SJ_J_tui_01
+    2300058: SJ_J_tui_02
+    2300060: SJ_J_tui_03
+    2300062: SJ_J_tui_04
+    2300064: SJ_J_zhongchougui_01
+    2300066: SJ_J_zhongchougui_02
+    2300068: SJ_J_zhongchougui_03
+    2300070: SJ_J_zhongshugn
+    3300000: SJ_J_ceban_01
+    3300002: SJ_J_ceban_02
+    3300004: SJ_J_cengban_02
+    3300006: SJ_J_cengban_02_1
+    3300008: SJ_J_chouce_01
+    3300010: SJ_J_chouce_02
+    3300012: SJ_J_chouce_03
+    3300014: SJ_J_chouce_04
+    3300016: SJ_J_choudiban_01
+    3300018: SJ_J_choudiban_02
+    3300020: SJ_J_chouhou_01
+    3300022: SJ_J_chouhou_012
+    3300024: SJ_J_choumian_01
+    3300026: SJ_J_choumian_02
+    3300028: SJ_J_dgcd_07
+    3300030: SJ_J_dgcd_08
+    3300032: SJ_J_dgcd_09
+    3300034: SJ_J_dgcd_10
+    3300036: SJ_J_dgdb_2_01
+    3300038: SJ_J_dgdb_2_02
+    3300040: SJ_J_dgdb_2_03
+    3300042: SJ_J_dgdb_2_04
+    3300044: SJ_J_houban_01
+    3300046: SJ_J_houban_02
+    3300048: SJ_J_motou_2_01
+    3300050: SJ_J_motou_2_02
+    3300052: SJ_J_motou_2_03
+    3300054: SJ_J_motou_2_04
+    3300056: SJ_J_tui_01
+    3300058: SJ_J_tui_02
+    3300060: SJ_J_tui_03
+    3300062: SJ_J_tui_04
+    3300064: SJ_J_zhongchougui_01
+    3300066: SJ_J_zhongchougui_02
+    3300068: SJ_J_zhongchougui_03
+    3300070: SJ_J_zhongshugn
+    4300000: SJ_J_cengban_02_1
+    4300002: SJ_J_cengban_02
+    4300004: SJ_J_zhongchougui_02
+    4300006: SJ_J_zhongshugn
+    4300008: SJ_J_houban_01
+    4300010: SJ_J_choudiban_02
+    4300012: SJ_J_houban_02
+    4300014: SJ_J_ceban_02
+    4300016: SJ_J_choudiban_01
+    4300018: SJ_J_ceban_01
+    4300020: SJ_J_dgcd_08
+    4300022: SJ_J_dgcd_07
+    4300024: SJ_J_dgdb_2_01
+    4300026: SJ_J_dgdb_2_02
+    4300028: SJ_J_choumian_02
+    4300030: SJ_J_chouhou_012
+    4300032: SJ_J_chouce_03
+    4300034: SJ_J_chouce_04
+    4300036: SJ_J_dgdb_2_04
+    4300038: SJ_J_dgdb_2_03
+    4300040: SJ_J_motou_2_01
+    4300042: SJ_J_tui_04
+    4300044: SJ_J_motou_2_03
+    4300046: SJ_J_tui_03
+    4300048: SJ_J_zhongchougui_01
+    4300050: SJ_J_dgcd_10
+    4300052: SJ_J_chouce_02
+    4300054: SJ_J_chouhou_01
+    4300056: SJ_J_chouce_01
+    4300058: SJ_J_choumian_01
+    4300060: SJ_J_dgcd_09
+    4300062: SJ_J_motou_2_02
+    4300064: SJ_J_tui_01
+    4300066: SJ_J_motou_2_04
+    4300068: SJ_J_tui_02
+    4300070: SJ_J_zhongchougui_03
+    7400000: Take 001
+    7400002: 2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: PlayOver
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: bfebed7c39c252543a7fa93d248652bf,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SJ_J_ceban_01
+        weight: 1
+      - path: SJ_J_ceban_02
+        weight: 1
+      - path: SJ_J_cengban_02
+        weight: 1
+      - path: SJ_J_cengban_02_1
+        weight: 1
+      - path: SJ_J_chouce_01
+        weight: 1
+      - path: SJ_J_chouce_02
+        weight: 1
+      - path: SJ_J_chouce_03
+        weight: 1
+      - path: SJ_J_chouce_04
+        weight: 1
+      - path: SJ_J_choudiban_01
+        weight: 1
+      - path: SJ_J_choudiban_02
+        weight: 1
+      - path: SJ_J_chouhou_01
+        weight: 1
+      - path: SJ_J_chouhou_012
+        weight: 1
+      - path: SJ_J_choumian_01
+        weight: 1
+      - path: SJ_J_choumian_02
+        weight: 1
+      - path: SJ_J_dgcd_07
+        weight: 1
+      - path: SJ_J_dgcd_08
+        weight: 1
+      - path: SJ_J_dgcd_09
+        weight: 1
+      - path: SJ_J_dgcd_10
+        weight: 1
+      - path: SJ_J_dgdb_2_01
+        weight: 1
+      - path: SJ_J_dgdb_2_02
+        weight: 1
+      - path: SJ_J_dgdb_2_03
+        weight: 1
+      - path: SJ_J_dgdb_2_04
+        weight: 1
+      - path: SJ_J_houban_01
+        weight: 1
+      - path: SJ_J_houban_02
+        weight: 1
+      - path: SJ_J_motou_2_01
+        weight: 1
+      - path: SJ_J_motou_2_02
+        weight: 1
+      - path: SJ_J_motou_2_03
+        weight: 1
+      - path: SJ_J_motou_2_04
+        weight: 1
+      - path: SJ_J_tui_01
+        weight: 1
+      - path: SJ_J_tui_02
+        weight: 1
+      - path: SJ_J_tui_03
+        weight: 1
+      - path: SJ_J_tui_04
+        weight: 1
+      - path: SJ_J_zhongchougui_01
+        weight: 1
+      - path: SJ_J_zhongchougui_02
+        weight: 1
+      - path: SJ_J_zhongchougui_03
+        weight: 1
+      - path: SJ_J_zhongshugn
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

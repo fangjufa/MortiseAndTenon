@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: 1bebef795aee1244698862f441dfa3b5
+timeCreated: 1492837742
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: quanyi_ houyatiao
+    100002: quanyi_ youjuankou_shang
+    100004: quanyi_ youjuankou_shang001
+    100006: quanyi_ youjuankou_you
+    100008: quanyi_ youjuankou_you001
+    100010: quanyi_ youjuankou_zuo
+    100012: quanyi_ youjuankou_zuo001
+    100014: quanyi_ceganzhang_you
+    100016: quanyi_ceganzhang_you001
+    100018: quanyi_chundai001
+    100020: quanyi_dabian_hou001
+    100022: quanyi_dabian_qian001
+    100024: quanyi_houtui_zuo
+    100026: quanyi_houtui_zuo 1
+    100028: quanyi_houzhang
+    100030: quanyi_jiaoya_you
+    100032: quanyi_jiaoya_zuo
+    100034: quanyi_juankou_shang
+    100036: quanyi_juankou_you
+    100038: quanyi_juankou_zuo
+    100040: quanyi_kobeiban
+    100042: quanyi_lianbanggun_you
+    100044: quanyi_lianbanggun_zuo
+    100046: quanyi_motou_you001
+    100048: quanyi_motou_zuo001
+    100050: quanyi_qianjiaozhang
+    100052: 'quanyi_qiantui_you '
+    100054: quanyi_qiantui_zuo
+    100056: quanyi_xiayatiao
+    100058: quanyi_yiquan006
+    100060: quanyi_yiquan007
+    100062: quanyi_yiquan008
+    100064: quanyi_yiquan009
+    100066: quanyi_yiquan010
+    100068: quanyi_yiquan0102_sai001
+    100070: quanyi_yiquan0203_sai001
+    100072: quanyi_yiquan0304_sai001
+    100074: quanyi_yiquan0506_sai001
+    100076: quanyi_zuoban001
+    100078: //RootNode
+    400000: quanyi_ houyatiao
+    400002: quanyi_ youjuankou_shang
+    400004: quanyi_ youjuankou_shang001
+    400006: quanyi_ youjuankou_you
+    400008: quanyi_ youjuankou_you001
+    400010: quanyi_ youjuankou_zuo
+    400012: quanyi_ youjuankou_zuo001
+    400014: quanyi_ceganzhang_you
+    400016: quanyi_ceganzhang_you001
+    400018: quanyi_chundai001
+    400020: quanyi_dabian_hou001
+    400022: quanyi_dabian_qian001
+    400024: quanyi_houtui_zuo
+    400026: quanyi_houtui_zuo 1
+    400028: quanyi_houzhang
+    400030: quanyi_jiaoya_you
+    400032: quanyi_jiaoya_zuo
+    400034: quanyi_juankou_shang
+    400036: quanyi_juankou_you
+    400038: quanyi_juankou_zuo
+    400040: quanyi_kobeiban
+    400042: quanyi_lianbanggun_you
+    400044: quanyi_lianbanggun_zuo
+    400046: quanyi_motou_you001
+    400048: quanyi_motou_zuo001
+    400050: quanyi_qianjiaozhang
+    400052: 'quanyi_qiantui_you '
+    400054: quanyi_qiantui_zuo
+    400056: quanyi_xiayatiao
+    400058: quanyi_yiquan006
+    400060: quanyi_yiquan007
+    400062: quanyi_yiquan008
+    400064: quanyi_yiquan009
+    400066: quanyi_yiquan010
+    400068: quanyi_yiquan0102_sai001
+    400070: quanyi_yiquan0203_sai001
+    400072: quanyi_yiquan0304_sai001
+    400074: quanyi_yiquan0506_sai001
+    400076: quanyi_zuoban001
+    400078: //RootNode
+    2300000: quanyi_ houyatiao
+    2300002: quanyi_ youjuankou_shang
+    2300004: quanyi_ youjuankou_shang001
+    2300006: quanyi_ youjuankou_you
+    2300008: quanyi_ youjuankou_you001
+    2300010: quanyi_ youjuankou_zuo
+    2300012: quanyi_ youjuankou_zuo001
+    2300014: quanyi_ceganzhang_you
+    2300016: quanyi_ceganzhang_you001
+    2300018: quanyi_chundai001
+    2300020: quanyi_dabian_hou001
+    2300022: quanyi_dabian_qian001
+    2300024: quanyi_houtui_zuo
+    2300026: quanyi_houtui_zuo 1
+    2300028: quanyi_houzhang
+    2300030: quanyi_jiaoya_you
+    2300032: quanyi_jiaoya_zuo
+    2300034: quanyi_juankou_shang
+    2300036: quanyi_juankou_you
+    2300038: quanyi_juankou_zuo
+    2300040: quanyi_kobeiban
+    2300042: quanyi_lianbanggun_you
+    2300044: quanyi_lianbanggun_zuo
+    2300046: quanyi_motou_you001
+    2300048: quanyi_motou_zuo001
+    2300050: quanyi_qianjiaozhang
+    2300052: 'quanyi_qiantui_you '
+    2300054: quanyi_qiantui_zuo
+    2300056: quanyi_xiayatiao
+    2300058: quanyi_yiquan006
+    2300060: quanyi_yiquan007
+    2300062: quanyi_yiquan008
+    2300064: quanyi_yiquan009
+    2300066: quanyi_yiquan010
+    2300068: quanyi_yiquan0102_sai001
+    2300070: quanyi_yiquan0203_sai001
+    2300072: quanyi_yiquan0304_sai001
+    2300074: quanyi_yiquan0506_sai001
+    2300076: quanyi_zuoban001
+    3300000: quanyi_ houyatiao
+    3300002: quanyi_ youjuankou_shang
+    3300004: quanyi_ youjuankou_shang001
+    3300006: quanyi_ youjuankou_you
+    3300008: quanyi_ youjuankou_you001
+    3300010: quanyi_ youjuankou_zuo
+    3300012: quanyi_ youjuankou_zuo001
+    3300014: quanyi_ceganzhang_you
+    3300016: quanyi_ceganzhang_you001
+    3300018: quanyi_chundai001
+    3300020: quanyi_dabian_hou001
+    3300022: quanyi_dabian_qian001
+    3300024: quanyi_houtui_zuo
+    3300026: quanyi_houtui_zuo 1
+    3300028: quanyi_houzhang
+    3300030: quanyi_jiaoya_you
+    3300032: quanyi_jiaoya_zuo
+    3300034: quanyi_juankou_shang
+    3300036: quanyi_juankou_you
+    3300038: quanyi_juankou_zuo
+    3300040: quanyi_kobeiban
+    3300042: quanyi_lianbanggun_you
+    3300044: quanyi_lianbanggun_zuo
+    3300046: quanyi_motou_you001
+    3300048: quanyi_motou_zuo001
+    3300050: quanyi_qianjiaozhang
+    3300052: 'quanyi_qiantui_you '
+    3300054: quanyi_qiantui_zuo
+    3300056: quanyi_xiayatiao
+    3300058: quanyi_yiquan006
+    3300060: quanyi_yiquan007
+    3300062: quanyi_yiquan008
+    3300064: quanyi_yiquan009
+    3300066: quanyi_yiquan010
+    3300068: quanyi_yiquan0102_sai001
+    3300070: quanyi_yiquan0203_sai001
+    3300072: quanyi_yiquan0304_sai001
+    3300074: quanyi_yiquan0506_sai001
+    3300076: quanyi_zuoban001
+    4300000: quanyi_houtui_zuo
+    4300002: quanyi_kobeiban
+    4300004: quanyi_juankou_you
+    4300006: quanyi_juankou_shang
+    4300008: quanyi_qianjiaozhang
+    4300010: quanyi_xiayatiao
+    4300012: quanyi_juankou_zuo
+    4300014: quanyi_ youjuankou_shang
+    4300016: quanyi_ youjuankou_you
+    4300018: quanyi_ youjuankou_zuo
+    4300020: 'quanyi_qiantui_you '
+    4300022: quanyi_ houyatiao
+    4300024: quanyi_ceganzhang_you
+    4300026: quanyi_houzhang
+    4300028: quanyi_houtui_zuo
+    4300030: quanyi_qiantui_zuo
+    4300032: quanyi_lianbanggun_you
+    4300034: quanyi_jiaoya_you
+    4300036: quanyi_jiaoya_zuo
+    4300038: quanyi_lianbanggun_zuo
+    4300040: quanyi_ youjuankou_you001
+    4300042: quanyi_ youjuankou_shang001
+    4300044: quanyi_ youjuankou_zuo001
+    4300046: quanyi_ceganzhang_you001
+    4300048: quanyi_zuoban001
+    4300050: quanyi_chundai001
+    4300052: quanyi_motou_you001
+    4300054: quanyi_motou_zuo001
+    4300056: quanyi_dabian_qian001
+    4300058: quanyi_dabian_hou001
+    4300060: quanyi_yiquan0102_sai001
+    4300062: quanyi_yiquan0203_sai001
+    4300064: quanyi_yiquan006
+    4300066: quanyi_yiquan007
+    4300068: quanyi_yiquan008
+    4300070: quanyi_yiquan0304_sai001
+    4300072: quanyi_yiquan0506_sai001
+    4300074: quanyi_yiquan009
+    4300076: quanyi_yiquan010
+    7400000: Take 001
+    7400002: 2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 3cad69a6f63747449aa41d5ec54b2ccc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: PlayOver
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 3cad69a6f63747449aa41d5ec54b2ccc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: quanyi_ houyatiao
+        weight: 1
+      - path: quanyi_ youjuankou_shang
+        weight: 1
+      - path: quanyi_ youjuankou_shang001
+        weight: 1
+      - path: quanyi_ youjuankou_you
+        weight: 1
+      - path: quanyi_ youjuankou_you001
+        weight: 1
+      - path: quanyi_ youjuankou_zuo
+        weight: 1
+      - path: quanyi_ youjuankou_zuo001
+        weight: 1
+      - path: quanyi_ceganzhang_you
+        weight: 1
+      - path: quanyi_ceganzhang_you001
+        weight: 1
+      - path: quanyi_dabian_hou001
+        weight: 1
+      - path: quanyi_dabian_qian001
+        weight: 1
+      - path: quanyi_houtui_zuo
+        weight: 1
+      - path: quanyi_houtui_zuo 1
+        weight: 1
+      - path: quanyi_houzhang
+        weight: 1
+      - path: quanyi_jiaoya_you
+        weight: 1
+      - path: quanyi_jiaoya_zuo
+        weight: 1
+      - path: quanyi_juankou_shang
+        weight: 1
+      - path: quanyi_juankou_you
+        weight: 1
+      - path: quanyi_juankou_zuo
+        weight: 1
+      - path: quanyi_kobeiban
+        weight: 1
+      - path: quanyi_lianbanggun_you
+        weight: 1
+      - path: quanyi_lianbanggun_zuo
+        weight: 1
+      - path: quanyi_motou_you001
+        weight: 1
+      - path: quanyi_motou_zuo001
+        weight: 1
+      - path: quanyi_qianjiaozhang
+        weight: 1
+      - path: 'quanyi_qiantui_you '
+        weight: 1
+      - path: quanyi_qiantui_zuo
+        weight: 1
+      - path: quanyi_xiayatiao
+        weight: 1
+      - path: quanyi_yiquan006
+        weight: 1
+      - path: quanyi_yiquan007
+        weight: 1
+      - path: quanyi_yiquan008
+        weight: 1
+      - path: quanyi_yiquan009
+        weight: 1
+      - path: quanyi_yiquan010
+        weight: 1
+      - path: quanyi_yiquan0102_sai001
+        weight: 1
+      - path: quanyi_yiquan0203_sai001
+        weight: 1
+      - path: quanyi_yiquan0304_sai001
+        weight: 1
+      - path: quanyi_yiquan0506_sai001
+        weight: 1
+      - path: quanyi_zuoban001
+        weight: 1
+      - path: quanyi_zuoban001/quanyi_chundai001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 2
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 3cad69a6f63747449aa41d5ec54b2ccc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayOver
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 3cad69a6f63747449aa41d5ec54b2ccc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: quanyi_ houyatiao
+        weight: 1
+      - path: quanyi_ youjuankou_shang
+        weight: 1
+      - path: quanyi_ youjuankou_shang001
+        weight: 1
+      - path: quanyi_ youjuankou_you
+        weight: 1
+      - path: quanyi_ youjuankou_you001
+        weight: 1
+      - path: quanyi_ youjuankou_zuo
+        weight: 1
+      - path: quanyi_ youjuankou_zuo001
+        weight: 1
+      - path: quanyi_ceganzhang_you
+        weight: 1
+      - path: quanyi_ceganzhang_you001
+        weight: 1
+      - path: quanyi_dabian_hou001
+        weight: 1
+      - path: quanyi_dabian_qian001
+        weight: 1
+      - path: quanyi_houtui_zuo
+        weight: 1
+      - path: quanyi_houtui_zuo 1
+        weight: 1
+      - path: quanyi_houzhang
+        weight: 1
+      - path: quanyi_jiaoya_you
+        weight: 1
+      - path: quanyi_jiaoya_zuo
+        weight: 1
+      - path: quanyi_juankou_shang
+        weight: 1
+      - path: quanyi_juankou_you
+        weight: 1
+      - path: quanyi_juankou_zuo
+        weight: 1
+      - path: quanyi_kobeiban
+        weight: 1
+      - path: quanyi_lianbanggun_you
+        weight: 1
+      - path: quanyi_lianbanggun_zuo
+        weight: 1
+      - path: quanyi_motou_you001
+        weight: 1
+      - path: quanyi_motou_zuo001
+        weight: 1
+      - path: quanyi_qianjiaozhang
+        weight: 1
+      - path: 'quanyi_qiantui_you '
+        weight: 1
+      - path: quanyi_qiantui_zuo
+        weight: 1
+      - path: quanyi_xiayatiao
+        weight: 1
+      - path: quanyi_yiquan006
+        weight: 1
+      - path: quanyi_yiquan007
+        weight: 1
+      - path: quanyi_yiquan008
+        weight: 1
+      - path: quanyi_yiquan009
+        weight: 1
+      - path: quanyi_yiquan010
+        weight: 1
+      - path: quanyi_yiquan0102_sai001
+        weight: 1
+      - path: quanyi_yiquan0203_sai001
+        weight: 1
+      - path: quanyi_yiquan0304_sai001
+        weight: 1
+      - path: quanyi_yiquan0506_sai001
+        weight: 1
+      - path: quanyi_zuoban001
+        weight: 1
+      - path: quanyi_zuoban001/quanyi_chundai001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

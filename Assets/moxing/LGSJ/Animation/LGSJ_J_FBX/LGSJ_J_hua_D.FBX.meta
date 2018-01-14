@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 58c62ca3718d4314b93b30dcfc70960a
+timeCreated: 1493966209
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SJ_J_cehengzhang_1_005
+    100004: SJ_J_cehengzhang_1_006
+    100006: SJ_J_cehengzhang_1_007
+    100008: SJ_J_cehengzhang_1_008
+    100010: SJ_J_cengban_01
+    100012: SJ_J_dgcd_11
+    100014: SJ_J_dgcd_12
+    100016: SJ_J_dgdb_1_003
+    100018: SJ_J_dgdb_1_004
+    100020: SJ_J_hengzhang_1_003
+    100022: SJ_J_hengzhang_1_004
+    100024: SJ_J_hua_1_006
+    100026: SJ_J_hua_1_007
+    100028: SJ_J_hua_1_008
+    100030: SJ_J_hua_1_009
+    100032: SJ_J_hua_1_010
+    100034: SJ_J_hua_1_011
+    100036: SJ_J_motou_1_01
+    100038: SJ_J_motou_1_02
+    100040: SJ_J_shugan_1_009
+    100042: SJ_J_shugan_1_010
+    100044: SJ_J_shugan_1_011
+    100046: SJ_J_shugan_1_012
+    100048: SJ_J_shugan_1_013
+    100050: SJ_J_shugan_1_014
+    100052: SJ_J_shugan_1_015
+    100054: SJ_J_tui_01
+    100056: SJ_J_tui_02
+    100058: SJ_J_tui_03
+    100060: SJ_J_tui_04
+    400000: //RootNode
+    400002: SJ_J_cehengzhang_1_005
+    400004: SJ_J_cehengzhang_1_006
+    400006: SJ_J_cehengzhang_1_007
+    400008: SJ_J_cehengzhang_1_008
+    400010: SJ_J_cengban_01
+    400012: SJ_J_dgcd_11
+    400014: SJ_J_dgcd_12
+    400016: SJ_J_dgdb_1_003
+    400018: SJ_J_dgdb_1_004
+    400020: SJ_J_hengzhang_1_003
+    400022: SJ_J_hengzhang_1_004
+    400024: SJ_J_hua_1_006
+    400026: SJ_J_hua_1_007
+    400028: SJ_J_hua_1_008
+    400030: SJ_J_hua_1_009
+    400032: SJ_J_hua_1_010
+    400034: SJ_J_hua_1_011
+    400036: SJ_J_motou_1_01
+    400038: SJ_J_motou_1_02
+    400040: SJ_J_shugan_1_009
+    400042: SJ_J_shugan_1_010
+    400044: SJ_J_shugan_1_011
+    400046: SJ_J_shugan_1_012
+    400048: SJ_J_shugan_1_013
+    400050: SJ_J_shugan_1_014
+    400052: SJ_J_shugan_1_015
+    400054: SJ_J_tui_01
+    400056: SJ_J_tui_02
+    400058: SJ_J_tui_03
+    400060: SJ_J_tui_04
+    2300000: SJ_J_cehengzhang_1_005
+    2300002: SJ_J_cehengzhang_1_006
+    2300004: SJ_J_cehengzhang_1_007
+    2300006: SJ_J_cehengzhang_1_008
+    2300008: SJ_J_cengban_01
+    2300010: SJ_J_dgcd_11
+    2300012: SJ_J_dgcd_12
+    2300014: SJ_J_dgdb_1_003
+    2300016: SJ_J_dgdb_1_004
+    2300018: SJ_J_hengzhang_1_003
+    2300020: SJ_J_hengzhang_1_004
+    2300022: SJ_J_hua_1_006
+    2300024: SJ_J_hua_1_007
+    2300026: SJ_J_hua_1_008
+    2300028: SJ_J_hua_1_009
+    2300030: SJ_J_hua_1_010
+    2300032: SJ_J_hua_1_011
+    2300034: SJ_J_motou_1_01
+    2300036: SJ_J_motou_1_02
+    2300038: SJ_J_shugan_1_009
+    2300040: SJ_J_shugan_1_010
+    2300042: SJ_J_shugan_1_011
+    2300044: SJ_J_shugan_1_012
+    2300046: SJ_J_shugan_1_013
+    2300048: SJ_J_shugan_1_014
+    2300050: SJ_J_shugan_1_015
+    2300052: SJ_J_tui_01
+    2300054: SJ_J_tui_02
+    2300056: SJ_J_tui_03
+    2300058: SJ_J_tui_04
+    3300000: SJ_J_cehengzhang_1_005
+    3300002: SJ_J_cehengzhang_1_006
+    3300004: SJ_J_cehengzhang_1_007
+    3300006: SJ_J_cehengzhang_1_008
+    3300008: SJ_J_cengban_01
+    3300010: SJ_J_dgcd_11
+    3300012: SJ_J_dgcd_12
+    3300014: SJ_J_dgdb_1_003
+    3300016: SJ_J_dgdb_1_004
+    3300018: SJ_J_hengzhang_1_003
+    3300020: SJ_J_hengzhang_1_004
+    3300022: SJ_J_hua_1_006
+    3300024: SJ_J_hua_1_007
+    3300026: SJ_J_hua_1_008
+    3300028: SJ_J_hua_1_009
+    3300030: SJ_J_hua_1_010
+    3300032: SJ_J_hua_1_011
+    3300034: SJ_J_motou_1_01
+    3300036: SJ_J_motou_1_02
+    3300038: SJ_J_shugan_1_009
+    3300040: SJ_J_shugan_1_010
+    3300042: SJ_J_shugan_1_011
+    3300044: SJ_J_shugan_1_012
+    3300046: SJ_J_shugan_1_013
+    3300048: SJ_J_shugan_1_014
+    3300050: SJ_J_shugan_1_015
+    3300052: SJ_J_tui_01
+    3300054: SJ_J_tui_02
+    3300056: SJ_J_tui_03
+    3300058: SJ_J_tui_04
+    4300000: SJ_J_tui_03
+    4300002: SJ_J_tui_04
+    4300004: SJ_J_shugan_1_009
+    4300006: SJ_J_cengban_01
+    4300008: SJ_J_dgdb_1_003
+    4300010: SJ_J_dgdb_1_004
+    4300012: SJ_J_dgcd_12
+    4300014: SJ_J_dgcd_11
+    4300016: SJ_J_hengzhang_1_003
+    4300018: SJ_J_hengzhang_1_004
+    4300020: SJ_J_hua_1_006
+    4300022: SJ_J_hua_1_007
+    4300024: SJ_J_shugan_1_010
+    4300026: SJ_J_hua_1_008
+    4300028: SJ_J_cehengzhang_1_005
+    4300030: SJ_J_cehengzhang_1_006
+    4300032: SJ_J_hua_1_009
+    4300034: SJ_J_motou_1_01
+    4300036: SJ_J_shugan_1_011
+    4300038: SJ_J_shugan_1_012
+    4300040: SJ_J_motou_1_02
+    4300042: SJ_J_cehengzhang_1_007
+    4300044: SJ_J_hua_1_010
+    4300046: SJ_J_cehengzhang_1_008
+    4300048: SJ_J_shugan_1_013
+    4300050: SJ_J_hua_1_011
+    4300052: SJ_J_shugan_1_014
+    4300054: SJ_J_shugan_1_015
+    4300056: SJ_J_tui_01
+    4300058: SJ_J_tui_02
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: BackOver
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 5948dbb75608b14428f866263fd284fc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 5948dbb75608b14428f866263fd284fc,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SJ_J_cehengzhang_1_005
+        weight: 1
+      - path: SJ_J_cehengzhang_1_006
+        weight: 1
+      - path: SJ_J_cehengzhang_1_007
+        weight: 1
+      - path: SJ_J_cehengzhang_1_008
+        weight: 1
+      - path: SJ_J_cengban_01
+        weight: 1
+      - path: SJ_J_dgcd_11
+        weight: 1
+      - path: SJ_J_dgcd_12
+        weight: 1
+      - path: SJ_J_dgdb_1_003
+        weight: 1
+      - path: SJ_J_dgdb_1_004
+        weight: 1
+      - path: SJ_J_hengzhang_1_003
+        weight: 1
+      - path: SJ_J_hengzhang_1_004
+        weight: 1
+      - path: SJ_J_hua_1_006
+        weight: 1
+      - path: SJ_J_hua_1_007
+        weight: 1
+      - path: SJ_J_hua_1_008
+        weight: 1
+      - path: SJ_J_hua_1_009
+        weight: 1
+      - path: SJ_J_hua_1_010
+        weight: 1
+      - path: SJ_J_hua_1_011
+        weight: 1
+      - path: SJ_J_motou_1_01
+        weight: 1
+      - path: SJ_J_motou_1_02
+        weight: 1
+      - path: SJ_J_shugan_1_009
+        weight: 1
+      - path: SJ_J_shugan_1_010
+        weight: 1
+      - path: SJ_J_shugan_1_011
+        weight: 1
+      - path: SJ_J_shugan_1_012
+        weight: 1
+      - path: SJ_J_shugan_1_013
+        weight: 1
+      - path: SJ_J_shugan_1_014
+        weight: 1
+      - path: SJ_J_shugan_1_015
+        weight: 1
+      - path: SJ_J_tui_01
+        weight: 1
+      - path: SJ_J_tui_02
+        weight: 1
+      - path: SJ_J_tui_03
+        weight: 1
+      - path: SJ_J_tui_04
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
