@@ -4,8 +4,7 @@ using UnityEngine.SceneManagement;
 using DG.Tweening;
 
 public class BGImg : MonoBehaviour {
-
-    //private Vector3 changePosition;
+    
     //当前被选中的部分，比如是桌腿还是桌面。
     private GameObject goComponent;
 
@@ -29,24 +28,13 @@ public class BGImg : MonoBehaviour {
 
 
     /*----------------下面的UI在显示完整圈椅的界面显示的------------------*/
-    //进入模块界面的按钮。
-    //public Button EnterBtn;
-    ////返回到整体界面的按钮
-    //public Button BackBtn;
-    //public Text noteInFurniture;
-    //public Image logoInFurniture;
+
+    public FurnitureUI furnitureUI;
     /*----------------------------------------------------------------------*/
 
     /*-----------------下面的UI是在有透明圆圈的界面才显示的-----------------------*/
-    ////带圆圈的透视UI Image。
-    //public Image BG;
-    ////该按钮是覆盖圆圈的，但是是全透明的。
-    //public Button ChairBtn;
-    ////在右下显示椅子名字的UI
-    ////public Text ChairName;
-    //public Text nameOfFurniture;
-
-    //public Image logoInBG;
+    public ChooseFurnitureUI chooseFurnitureUI;
+    public GameObject bgPanel;
     /*------------------------------------------------------------------------*/
 
     //椅子的每个小部件的父物体
@@ -55,28 +43,17 @@ public class BGImg : MonoBehaviour {
     public Transform roundDeskFurniture;
 
     /*-------------在显示圈椅小部件时的界面出现的UI--------------------------*/
-    public Button turnBackButton;
-    public Button showDeskButton;
-    public Button showBackrestButton;
-    public Button showLegButton;
-    public Button resetButton;
-    public Text noteInComponent;
-    public Image logoInComponent;
-    public Text nameOfComponent;
+    public ComponentUI componentUI;
     /*-----------------------------------------------------------*/
 
     ///*--------------退出界面UI-------------------*/
-    //public Button reloadButton;
-    //public Button continueButton;
-    //public Button exitButton;
     public GameObject escPanel;
-    //public ESCUI escUI;
     ///*---------------------------------------------*/
 
 
     public GameObject canvasOne;
     //public GameObject canvasTwo;
-    public GameObject bgPanel;   
+
     public CameraController camController;
 
     public GameObject decomFather;
@@ -102,30 +79,12 @@ public class BGImg : MonoBehaviour {
         isBackToBG = true;
         isChange = false;
         isInEsc = false;
-        //changePosition = new Vector3(0, 10, 0);
-        
-        //面板1--整体家居界面
-        EnterBtn.onClick.AddListener(ChangeScence);
-        BackBtn.onClick.AddListener(ShowBG);
-        //ChairBtn.onClick.AddListener(OnChairBtnClick);
-
-        //面板2--家居小部件界面
-        showDeskButton.onClick.AddListener(OnDeskButton);
-        showBackrestButton.onClick.AddListener(OnBackrestButton);
-        showLegButton.onClick.AddListener(OnLegButton);
-        resetButton.onClick.AddListener(OnReturnState);
-        turnBackButton.onClick.AddListener(OnTurnBack);
-
-        ////esc面板
-        //reloadButton.onClick.AddListener(ReloadScence);
-        //continueButton.onClick.AddListener(ContinueGame);
-        //exitButton.onClick.AddListener(ExitGame);
 
         roundDeskFurniture.GetComponent<BoxCollider>().enabled = false;
-        //foreach (Transform furniture in FurnitureList) 
-        //{
-        //    furniture.GetComponent<BoxCollider>().enabled = false;
-        //}
+
+        desk = roundDeskFurniture.GetChild(0).GetComponent<ChairAttributes>().desk;
+        leg = roundDeskFurniture.GetChild(0).GetComponent<ChairAttributes>().leg;
+        backrest = roundDeskFurniture.GetChild(0).GetComponent<ChairAttributes>().backrest;
     }
 
     // Update is called once per frame
@@ -137,105 +96,23 @@ public class BGImg : MonoBehaviour {
         PressEsc();
     }
 
-    //private void OnChairBtnClick()
-    //{
-    //    //进入整体家居展示界面
-    //    isBackToBG = false;
-    //    ChairBtn.enabled = false;
-        
-    //    HideImage(noteInFurniture.gameObject, true);
-    //    HideImage(logoInBG.gameObject, true);
-
-    //    HideText(ChairBtn.gameObject, true);
-    //    HideText(nameOfFurniture.gameObject, true);
-
-    //    Camera.main.GetComponent<AudioSource>().DOFade(audioVolume, 1);
-
-    //    BG.DOFade(0, time).OnComplete(() =>
-    //    {
-    //        bgPanel.SetActive(false);
-    //        roundDeskFurniture.GetComponent<BoxCollider>().enabled = true;
-    //    });
-
-    //    ChairModel.Instance.Target = roundDeskFurniture;// FurnitureList[0];
-    //    //给家具加ChairController脚本，并且附上爆炸动画和合并动画
-    //    if (roundDeskFurniture.gameObject.GetComponent<ChairController>() == null) { roundDeskFurniture.gameObject.AddComponent<ChairController>(); }
-    //     ChairModel.Instance.Baozha = ClipNameManager.Instance.GetClipName(roundDeskFurniture.name);
-    //    ChangeScenceObject();
-    //}
-
-    private void ChangeScenceObject()
-    {
-        //根据所选家居调整小部件场景
-        int i = roundDeskFurniture.GetChild(0).GetComponent<ChairAttributes>().numbersOfComponent;
-
-        if (i == 3)
-        {
-            //调整家居小部件按钮外观和数量
-            showBackrestButton.gameObject.SetActive(true);
-            showDeskButton.image.sprite = roundDeskFurniture.GetChild(0).GetComponent<ChairAttributes>().deskSprite;
-            showLegButton.image.sprite = roundDeskFurniture.GetChild(0).GetComponent<ChairAttributes>().legSprite;
-            showBackrestButton.image.sprite = roundDeskFurniture.GetChild(0).GetComponent<ChairAttributes>().backrestSprite;
-
-            //调整家居小部件对应的预设
-            desk = roundDeskFurniture.GetChild(0).GetComponent<ChairAttributes>().desk;
-            leg = roundDeskFurniture.GetChild(0).GetComponent<ChairAttributes>().leg;
-            backrest = roundDeskFurniture.GetChild(0).GetComponent<ChairAttributes>().backrest;
-        }
-        else if (i == 2)
-        {
-            //调整家居小部件按钮外观和数量
-            showDeskButton.image.sprite = roundDeskFurniture.GetChild(0).GetComponent<ChairAttributes>().deskSprite;
-            showLegButton.image.sprite = roundDeskFurniture.GetChild(0).GetComponent<ChairAttributes>().legSprite;
-            showBackrestButton.gameObject.SetActive(false);
-
-            //调整家居小部件对应的预设
-            desk = roundDeskFurniture.GetChild(0).GetComponent<ChairAttributes>().desk;
-            leg = roundDeskFurniture.GetChild(0).GetComponent<ChairAttributes>().leg;
-        }
-        else return;
-    }
-
     public void IntoComponentScene()
     {
         //进入家居小部件展示场景
         isChange = true;
-        //EnterBtn.enabled = false;
-        
-        //HideImage(EnterBtn.gameObject, true);
-        //HideImage(BackBtn.gameObject, true);
-        //HideText(noteInFurniture.gameObject, true);
 
         camController.GetComponent<CameraController>().IntoComponent();
         
-        //logoInFurniture.transform.GetComponent<Image>().DOFade(0, time).OnComplete(() =>
-        //{
-        //    turnBackButton.enabled = true;            
-        //    canvasOne.SetActive(false);
-        //    HideImage(resetButton.gameObject, false);
-        //    HideImage(showLegButton.gameObject, false);
-        //    HideImage(showBackrestButton.gameObject, false);
-        //    HideImage(showDeskButton.gameObject, false);
-        //    HideImage(turnBackButton.gameObject, false);
-        //    HideImage(logoInComponent.gameObject, false);
-        //    HideText(noteInComponent.gameObject, false);
-        //});
-
         transitName = roundDeskFurniture.name;
         //Debug.Log(FurnitureList[0].name);
     }
 
     public void ShowComponentUI()
     {
-        turnBackButton.enabled = true;
+        
         canvasOne.SetActive(false);
-        HideImage(resetButton.gameObject, false);
-        HideImage(showLegButton.gameObject, false);
-        HideImage(showBackrestButton.gameObject, false);
-        HideImage(showDeskButton.gameObject, false);
-        HideImage(turnBackButton.gameObject, false);
-        HideImage(logoInComponent.gameObject, false);
-        HideText(noteInComponent.gameObject, false);
+
+        componentUI.Show();
     }
 
     public void ShowBG()
@@ -243,54 +120,25 @@ public class BGImg : MonoBehaviour {
         ChairController.PlayHebing();
         //显示BG
         isBackToBG = true;
-        bgPanel.SetActive(true);
-        /*----------------隐藏带圈的UI界面----------------*/
-        HideImage(logoInBG.gameObject, false);
+        chooseFurnitureUI.gameObject.SetActive(true);
 
-        HideText(ChairBtn.gameObject, false);
-        HideText(nameOfFurniture.gameObject, false);
-        /*--------------------------------------------------------*/
 
-        camController.GetComponent<CameraController>().BackToBG(ChairBtn);
+        camController.GetComponent<CameraController>().BackToBG();
 
         Camera.main.GetComponent<AudioSource>().DOFade(1, 1);
-
-        BG.DOFade(1, time);//.OnComplete(() =>
+        
     }
 
-    private void OnTurnBack()
+    public void OnTurnBack()
     {
         //返回整体家居界面
         //if (go) Destroy(go);
         camController.GetComponent<CameraController>().BackToOverall();
-        turnBackButton.enabled = false;
+        //turnBackButton.enabled = false;
         
         isChange = false;
 
         canvasOne.SetActive(true);
-
-        HideImage(showLegButton.gameObject, true);
-        HideImage(showBackrestButton.gameObject, true);
-        HideImage(showDeskButton.gameObject, true);
-        HideImage(turnBackButton.gameObject, true);
-        HideImage(logoInComponent.gameObject, true);
-        HideText(noteInComponent.gameObject, true);
-        HideText(nameOfComponent.gameObject, true);
-
-        resetButton.transform.GetComponent<Image>().DOFade(0, time).OnComplete(() =>
-        {
-            HideImage(EnterBtn.gameObject, false);
-            HideImage(BackBtn.gameObject, false);           
-            HideImage(logoInFurniture.gameObject, false);
-            HideText(noteInFurniture.gameObject, false);
-            nameOfComponent.text = null;
-            EnterBtn.enabled = true;
-        });       
-
-        showDeskButton.interactable = true;
-        showBackrestButton.interactable = true;
-        showLegButton.interactable = true;
-
         currenObject = null;
         transitName = null;
     }
@@ -310,63 +158,32 @@ public class BGImg : MonoBehaviour {
         DecomController.SearchComponent();
     }
 
-    private void RefreshComponentName()
-    {
-        if (nameOfComponent.text != null)
-        {
-            nameOfComponent.transform.GetComponent<Text>().DOFade(0, 0.5f).OnComplete(() =>
-            {
-                nameOfComponent.text = ComponentAttributes.nameOfComponent;
-                nameOfComponent.transform.GetComponent<Text>().DOFade(1, 0.5f);
-            });
-        }
-        else
-        {
-            nameOfComponent.text = ComponentAttributes.nameOfComponent;
-            nameOfComponent.transform.GetComponent<Text>().DOFade(1, time);
-        }
-    }
-
-    private void OnDeskButton()
+    public void OnDeskButton()
     {
         goComponent = desk;
         transitName = roundDeskFurniture.name + "D_desk";
         //Debug.Log(transitName);
 
         RefreshObject();
-        RefreshComponentName();
 
-        showDeskButton.interactable = false;
-        showBackrestButton.interactable = true;
-        showLegButton.interactable = true;
     }
 
-    private void OnBackrestButton()
+    public void OnBackrestButton()
     {
         goComponent = backrest;
         transitName = roundDeskFurniture.name + "D_backrest";
         //Debug.Log(transitName);
 
         RefreshObject();
-        RefreshComponentName();
-
-        showDeskButton.interactable = true;
-        showBackrestButton.interactable = false;
-        showLegButton.interactable = true;
     }
 
-    private void OnLegButton()
+    public void OnLegButton()
     {
         goComponent = leg;
         transitName = roundDeskFurniture.name + "D_leg";
         //Debug.Log(transitName);
 
         RefreshObject();
-        RefreshComponentName();
-
-        showDeskButton.interactable = true;
-        showBackrestButton.interactable = true;
-        showLegButton.interactable = false;
     }
 
     private void OnReturnState()
@@ -395,28 +212,9 @@ public class BGImg : MonoBehaviour {
         }
     }
 
-    private void HideImage(GameObject gameObject,bool isHide)
-    {
-        int time = 1;
-        int alpha = isHide?0:1;
-        
-        gameObject.GetComponent<Image>().DOFade(alpha, time);
-    }
-
-    private void HideText(GameObject gameObject, bool isHide)
-    {
-        int time = 1;
-        int alpha = isHide ? 0 : 1;
-        gameObject.GetComponent<Text>().DOFade(alpha, time);
-    }
-
-    private void HideGrphic(Graphic graphic,bool isHide)
-    {
-        int time = 1;
-        int alpha = isHide ? 0 : 1;
-        graphic.DOFade(alpha, time);
-    }
-
+    /// <summary>
+    /// 当用户没有任何输入超过一定时间之后，返回到最开始的界面。
+    /// </summary>
     private void IdleWating()
     {
         if (Input.GetAxis("Mouse X") == 0 || Input.GetAxis("Mouse Y") == 0)
@@ -431,7 +229,7 @@ public class BGImg : MonoBehaviour {
             if (Time.time - clockTimer >= waitTime)
             {
                 boxCollider.SetActive(true);
-                startImg.gameObject.SetActive(true);
+                startImg.SetActive(true);
                 startImg.GetComponent<Image>().DOFade(1, time);
             }
         }
@@ -441,30 +239,15 @@ public class BGImg : MonoBehaviour {
         }
     }
 
+    /// <summary>
+    /// 在键盘上按下了ESC键之后，显示出esc的界面。
+    /// </summary>
     private void PressEsc()
     {
         if (Input.GetKeyDown(KeyCode.Escape) && !escPanel.gameObject.activeSelf)
         {
             boxCollider.SetActive(true);
-            //escUI.gameObject.SetActive(true);
             escPanel.SetActive(true);
-
-            //continueButton.enabled = true;
-            //continueButton.interactable = true;
-
-            //reloadButton.enabled = true;
-            //reloadButton.interactable = true;
-
-            //exitButton.enabled = true;
-            //exitButton.interactable = true;
-
-            //escPanel.GetComponent<Image>().DOFade(1, 0.5f).OnComplete(() =>
-            //{
-            //    Time.timeScale = 0;
-            //});
-            //reloadButton.GetComponent<Image>().DOFade(1, 0.5f);
-            //continueButton.GetComponent<Image>().DOFade(1, 0.5f);
-            //exitButton.GetComponent<Image>().DOFade(1, 0.5f);
         }
         if (escPanel.gameObject.activeSelf)
         {
@@ -473,10 +256,8 @@ public class BGImg : MonoBehaviour {
         else
         {
             isInEsc = true;
-
-            /*-------------由于远程的原因，暂时先注释掉这一句------------
+            
             IdleWating();
-            ------------------------------------------------------------*/
         }
 
     }
@@ -496,37 +277,6 @@ public class BGImg : MonoBehaviour {
             roundDeskFurniture.gameObject.AddComponent<ChairController>();
         }
         ChairModel.Instance.Baozha = ClipNameManager.Instance.GetClipName(roundDeskFurniture.name);
-        ChangeScenceObject();
+        //ChangeScenceObject();
     }
-
-    //private void ReloadScence()
-    //{
-    //    reloadButton.interactable = false;
-    //    exitButton.enabled = false;
-    //    continueButton.enabled = false;
-    //    SceneManager.LoadScene("Loading");
-    //}
-
-    //private void ContinueGame()
-    //{
-    //    exitButton.enabled = false;
-    //    reloadButton.enabled = false;
-    //    continueButton.interactable = false;
-    //    Time.timeScale = 1;
-    //    reloadButton.GetComponent<Image>().DOFade(0, 0.5f);
-    //    continueButton.GetComponent<Image>().DOFade(0, 0.5f);
-    //    exitButton.GetComponent<Image>().DOFade(0, 0.5f);
-    //    escPanel.transform.GetComponent<Image>().DOFade(0, 0.5f).OnComplete(() =>
-    //    {
-    //        boxCollider.SetActive(false);
-    //        escPanel.SetActive(false);
-    //    });
-
-    //}
-
-    //private void ExitGame()
-    //{
-    //    exitButton.interactable = false;
-    //    Application.Quit();
-    //}
 }

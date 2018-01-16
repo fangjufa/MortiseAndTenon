@@ -85,4 +85,14 @@ public class FurnitureUI : MonoBehaviour {
         int alpha = isHide ? 0 : 1;
         graphic.DOFade(alpha, time);
     }
+
+    private void OnEnable()
+    {
+        HideGrphic(EnterBtn.GetComponent<Image>(), false);
+        HideGrphic(BackBtn.GetComponent<Image>(), false);
+        HideGrphic(logoInFurniture, false);
+        HideGrphic(noteInFurniture, false);
+        //nameOfComponent.text = null;
+        EnterBtn.enabled = true;
+    }
 }

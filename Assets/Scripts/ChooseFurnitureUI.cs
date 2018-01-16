@@ -25,6 +25,25 @@ public class ChooseFurnitureUI : MonoBehaviour
         ChairBtn.onClick.AddListener(OnChairBtnClick);
     }
 
+    private void OnEnable()
+    {
+        /*----------------显示带圈的UI界面----------------*/
+        //渐渐显示背景的logo图案
+        HideGrphic(logoInBG, false);
+
+        //渐渐显示chairBtn按钮
+        HideGrphic(ChairBtn.GetComponent<Image>(), true);
+
+        //渐渐显示“圈椅”的字样
+        HideGrphic(nameOfFurniture, false);
+
+        //渐渐显示背景图片
+        BG.DOFade(1, 1).OnComplete(()=> {
+            ChairBtn.enabled = true;
+        });
+        /*--------------------------------------------------------*/
+    }
+
     private void OnChairBtnClick()
     {
         

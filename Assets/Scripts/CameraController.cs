@@ -230,13 +230,15 @@ public class CameraController : MonoBehaviour {
         y = 0;
     }
 
-    public void BackToBG(Button button)
+    //public void BackToBG(Button button)
+    public void BackToBG()
     {
         cameraMoveTarget.localPosition = cameraPosition;
-        cameraAssistCenter.transform.DORotate(startRotation, 0.5f).OnComplete(() =>
-        {
-            button.enabled = true;
-        });
+        //cameraAssistCenter.transform.DORotate(startRotation, 0.5f).OnComplete(() =>
+        //{
+        //    button.enabled = true;
+        //});
+        cameraAssistCenter.transform.DORotate(startRotation, 0.5f);
     }
 
     private float ClampAngle(float angle, float min, float max)
