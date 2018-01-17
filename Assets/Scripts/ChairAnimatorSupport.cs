@@ -38,12 +38,12 @@ public class ChairAnimatorSupport : MonoBehaviour {
         gameObject.GetComponent<AudioSource>().loop = false;
         if (i == 1)
         {
-            gameObject.GetComponent<AudioSource>().clip = gameObject.GetComponent<AudioClipS>().分散;
+            gameObject.GetComponent<AudioSource>().clip = gameObject.GetComponent<AudioClipS>().split;
             i += 1;
         }
         else if(i == 2)
         {
-            gameObject.GetComponent<AudioSource>().clip = gameObject.GetComponent<AudioClipS>().合并;
+            gameObject.GetComponent<AudioSource>().clip = gameObject.GetComponent<AudioClipS>().merge;
             i -= 1;
         }
         gameObject.GetComponent<AudioSource>().Play();

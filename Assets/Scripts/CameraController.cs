@@ -15,8 +15,7 @@ public class CameraController : MonoBehaviour {
     public Transform zoomPoint;
     public Transform furnitureFather;
     public Transform decomFather;
-
-    //public GameObject canvas;
+    
     public BGImg bgImg;
 
     public static bool isChangeCameraAngle;
@@ -64,10 +63,6 @@ public class CameraController : MonoBehaviour {
         lightsUpPosition = lightsUpTarget.position;
 
         canAction = true;
-    }
-    void Update()
-    {
-
     }
 
     void FixedUpdate()
@@ -165,7 +160,6 @@ public class CameraController : MonoBehaviour {
     /// <summary>
     /// 在家具整体展示界面与家具部件展示界面间切换的视觉效果
     /// </summary>
-    
     public void IntoComponent()
     {
         cameraVerticalMoveTarget.position = componentStateTarget.position;
@@ -230,14 +224,12 @@ public class CameraController : MonoBehaviour {
         y = 0;
     }
 
-    //public void BackToBG(Button button)
+    /// <summary>
+    /// 返回到有圆圈的UI界面时，摄像机要回到正中央的位置。
+    /// </summary>
     public void BackToBG()
     {
         cameraMoveTarget.localPosition = cameraPosition;
-        //cameraAssistCenter.transform.DORotate(startRotation, 0.5f).OnComplete(() =>
-        //{
-        //    button.enabled = true;
-        //});
         cameraAssistCenter.transform.DORotate(startRotation, 0.5f);
     }
 

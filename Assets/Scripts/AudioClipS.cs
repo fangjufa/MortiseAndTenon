@@ -1,9 +1,14 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class AudioClipS : MonoBehaviour {
 
-    public AudioClip 分散;
-    public AudioClip 合并;
+    /// <summary>
+    /// 分开动画片段
+    /// </summary>
+    public AudioClip split;
+
+    /// <summary>
+    /// 合并动画片段
+    /// </summary>
+    public AudioClip merge;
 }
