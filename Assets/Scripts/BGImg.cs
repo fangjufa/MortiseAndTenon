@@ -34,7 +34,7 @@ public class BGImg : MonoBehaviour {
 
     /*-----------------下面的UI是在有透明圆圈的界面才显示的-----------------------*/
     public ChooseFurnitureUI chooseFurnitureUI;
-    public GameObject bgPanel;
+    //public GameObject bgPanel;
     /*------------------------------------------------------------------------*/
 
     //椅子的每个小部件的父物体
@@ -51,7 +51,7 @@ public class BGImg : MonoBehaviour {
     ///*---------------------------------------------*/
 
 
-    public GameObject canvasOne;
+    //public GameObject canvasOne;
     //public GameObject canvasTwo;
 
     public CameraController camController;
@@ -67,7 +67,7 @@ public class BGImg : MonoBehaviour {
 
     public static bool isChange;
     public static bool isBackToBG;
-    public static bool isInEsc;
+    //public static bool isInEsc;
 
     private void Awake()
     {
@@ -78,7 +78,7 @@ public class BGImg : MonoBehaviour {
     void Start () {
         isBackToBG = true;
         isChange = false;
-        isInEsc = false;
+        //isInEsc = false;
 
         roundDeskFurniture.GetComponent<BoxCollider>().enabled = false;
 
@@ -109,8 +109,9 @@ public class BGImg : MonoBehaviour {
 
     public void ShowComponentUI()
     {
-        
-        canvasOne.SetActive(false);
+
+        //canvasOne.SetActive(false);
+        furnitureUI.gameObject.SetActive(false);
 
         componentUI.Show();
     }
@@ -138,7 +139,8 @@ public class BGImg : MonoBehaviour {
         
         isChange = false;
 
-        canvasOne.SetActive(true);
+        //canvasOne.SetActive(true);
+        furnitureUI.gameObject.SetActive(true);
         currenObject = null;
         transitName = null;
     }
@@ -249,13 +251,13 @@ public class BGImg : MonoBehaviour {
             boxCollider.SetActive(true);
             escPanel.SetActive(true);
         }
-        if (escPanel.gameObject.activeSelf)
+        if (!escPanel.gameObject.activeSelf)
         {
-            isInEsc = false;
-        }
-        else
-        {
-            isInEsc = true;
+        //    isInEsc = false;
+        //}
+        //else
+        //{
+        //    isInEsc = true;
             
             IdleWating();
         }

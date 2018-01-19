@@ -32,23 +32,22 @@ public class CameraController : MonoBehaviour {
     public float rotationInertia = 1f;
     public float yMinLimit = -20;
     public float yMaxLimit = 80;
-
-    private List<Transform> cameraTarget = new List<Transform>();
+    
 
     private Vector3 startRotation;
-    private Vector3 startPosition;
+    //private Vector3 startPosition;
     private Vector3 transitPosition;
     private Vector3 cameraPosition;
     private Vector3 cameraStartRotation;
     private Vector3 cameraReturnPosition;
     private Vector3 lightsDownPosition;
     private Vector3 lightsUpPosition;
-    private Vector3 velocity = Vector3.zero;
+    //private Vector3 velocity = Vector3.zero;
     private Vector3 chairFatherPosition;   
   
     private float x = 0.0f;
     private float y = 0.0f;
-    private float mouseX;
+    //private float mouseX;
     private float mouseY;
     private float verticalYPosition;
 
@@ -56,7 +55,7 @@ public class CameraController : MonoBehaviour {
 
     void Start()
     {
-        startPosition = cameraAssistCenter.transform.position;
+        //startPosition = cameraAssistCenter.transform.position;
         startRotation = cameraAssistCenter.transform.eulerAngles;
         cameraPosition = Camera.main.transform.localPosition;
         lightsDownPosition = lights.position;
@@ -72,8 +71,8 @@ public class CameraController : MonoBehaviour {
         {          
             if (Input.GetMouseButton(0))
             {
-                mouseX = Input.GetAxis("Mouse X");
-                mouseY = Input.GetAxis("Mouse Y");
+                //mouseX = Input.GetAxis("Mouse X");
+                //mouseY = Input.GetAxis("Mouse Y");
 
                 x += Input.GetAxis("Mouse X") * xSpeed * 0.04f;
                 y -= Input.GetAxis("Mouse Y") * ySpeed * 0.04f;

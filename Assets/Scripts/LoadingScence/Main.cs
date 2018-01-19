@@ -25,7 +25,7 @@ public class Main : MonoBehaviour {
 
     IEnumerator LoadScence()
     {
-        async = SceneManager.LoadSceneAsync("Home");
+        async = SceneManager.LoadSceneAsync("Home02");
         yield return async;
     }
 }

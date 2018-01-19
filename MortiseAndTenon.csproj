@@ -128,11 +128,6 @@
     <None Include="Assets\Plugins\DOTween\DOTween50.xml" />
     <None Include="Assets\Plugins\DOTween\Editor\DOTweenEditor.XML" />
     <None Include="Assets\Plugins\DOTween\readme.txt" />
-    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingBlur.shader" />
-    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingComposite.shader" />
-    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingCut.shader" />
-    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingOpaque.shader" />
-    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingTransparent.shader" />
     <None Include="Assets\Resources\ChairList.xml" />
     <None Include="Assets\Resources\Config.txt" />
     <None Include="Assets\Resources\Outline.shader" />

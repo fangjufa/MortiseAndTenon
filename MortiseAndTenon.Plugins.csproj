@@ -93,27 +93,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Plugins\Highlighting System\HighlightingSystemDemo\Scripts\Advanced\CameraTargeting.cs" />
-    <Compile Include="Assets\Plugins\Highlighting System\HighlightingSystemDemo\Scripts\Advanced\CompoundObjectController.cs" />
-    <Compile Include="Assets\Plugins\Highlighting System\HighlightingSystemDemo\Scripts\Advanced\ConstantHighlighting.cs" />
-    <Compile Include="Assets\Plugins\Highlighting System\HighlightingSystemDemo\Scripts\Advanced\FlashingController.cs" />
-    <Compile Include="Assets\Plugins\Highlighting System\HighlightingSystemDemo\Scripts\Advanced\HighlighterController.cs" />
-    <Compile Include="Assets\Plugins\Highlighting System\HighlightingSystemDemo\Scripts\Advanced\HighlighterOccluder.cs" />
-    <Compile Include="Assets\Plugins\Highlighting System\HighlightingSystemDemo\Scripts\Advanced\SpectrumController.cs" />
-    <Compile Include="Assets\Plugins\Highlighting System\HighlightingSystemDemo\Scripts\Basic\CSHighlighterController.cs" />
-    <Compile Include="Assets\Plugins\Highlighting System\HighlightingSystemDemo\Scripts\Helpers\MovementController.cs" />
-    <Compile Include="Assets\Plugins\Highlighting System\HighlightingSystemDemo\Scripts\Helpers\RotationController.cs" />
-    <Compile Include="Assets\Plugins\Highlighting System\HighlightingSystemDemo\Scripts\Service\CameraFlyController.cs" />
-    <Compile Include="Assets\Plugins\Highlighting System\HighlightingSystemDemo\Scripts\Service\FPSCounter.cs" />
-    <Compile Include="Assets\Plugins\Highlighting System\HighlightingSystemDemo\Scripts\Service\PresetSelector.cs" />
-    <Compile Include="Assets\Plugins\Highlighting System\HighlightingSystemDemo\Scripts\Service\SceneLoader.cs" />
-    <Compile Include="Assets\Plugins\HighlightingSystem\Scripts\Highlighter.cs" />
-    <Compile Include="Assets\Plugins\HighlightingSystem\Scripts\HighlightingRenderer.cs" />
-    <Compile Include="Assets\Plugins\HighlightingSystem\Scripts\Internal\HighlighterInternal.cs" />
-    <Compile Include="Assets\Plugins\HighlightingSystem\Scripts\Internal\HighlighterManager.cs" />
-    <Compile Include="Assets\Plugins\HighlightingSystem\Scripts\Internal\HighlightingBase.cs" />
-    <Compile Include="Assets\Plugins\HighlightingSystem\Scripts\Internal\RendererCache.cs" />
-    <Compile Include="Assets\Plugins\HighlightingSystem\Scripts\Internal\ShaderPropertyID.cs" />
     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" />
     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\BloomAndFlares.cs" />
@@ -160,11 +139,6 @@
     <None Include="Assets\Plugins\DOTween\DOTween50.xml" />
     <None Include="Assets\Plugins\DOTween\Editor\DOTweenEditor.XML" />
     <None Include="Assets\Plugins\DOTween\readme.txt" />
-    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingBlur.shader" />
-    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingComposite.shader" />
-    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingCut.shader" />
-    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingOpaque.shader" />
-    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingTransparent.shader" />
     <None Include="Assets\Resources\ChairList.xml" />
     <None Include="Assets\Resources\Config.txt" />
     <None Include="Assets\Resources\Outline.shader" />

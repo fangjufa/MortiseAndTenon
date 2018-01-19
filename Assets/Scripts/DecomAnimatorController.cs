@@ -7,7 +7,7 @@ public class DecomAnimatorController : MonoBehaviour {
     private int i = 1;
 
     private static Animator animator;
-    private static Animator _animator;
+    //private static Animator _animator;
 
     private static GameObject thisObject;
 
@@ -114,7 +114,7 @@ public class DecomAnimatorController : MonoBehaviour {
         if (BGImg.transitName != null)
         {
             animator = GetComponent<Animator>();
-            _animator = animator;
+            //_animator = animator;
         }
         if (animator)
         {
